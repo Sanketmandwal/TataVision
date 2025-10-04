@@ -1,0 +1,10 @@
+fastapi==0.118.0
+pinecone-client==3.0.0
+pydantic==2.11.9
+pydantic_core==2.33.2
+python-dotenv==1.1.1
+requests==2.31.0
+sentence-transformers==5.1.1
+uvicorn==0.37.0
+google-api-python-client vaderSentiment
+praw
