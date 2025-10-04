@@ -1,0 +1,37 @@
+# Node modules
+node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Runtime data
+.DS_Store
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.vscode/
+npm-debug.log
+yarn-error.log
+
+# Build artifacts
+dist/
+build/
+coverage/
+
+# IDE files
+.idea/
+.project
+.settings/
+.classpath
+*.sublime-workspace
+*.code-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,1756 @@
+[
+    {
+        "platform": "reddit",
+        "username": "johnny___engineer",
+        "timestamp": "2024-03-09T02:02:39Z",
+        "vehicle_model": "Tata Safari",
+        "competitor_models": [
+            "Tata Harrier",
+            "Mahindra XUV700",
+            "Hyundai Alcazar",
+            "Toyota Innova"
+        ],
+        "content": "Looking for Car Garages which specializes in 2010-2015 era TATA cars..  \n\nHey Punekars, I have a 2010 Tata Safari which has a lot of sentimental values.\n\nSince the car is nearing it's 15th year, there are a lot of issues, namely: Engine, Transmission and AC.  \nI have been searching for a garage which specializes in maintaining/repairing Tata cars which were build in the 2010-2015 era.\n\nI have a Royal Enfield from the same era and I found Joginder Garage - A Royal Enfield specialist.\n\nI am trying to find some specialist for my car who can not only **repair** the car but also **restore** it to it's former glory.\n\nI found Avanthi Motors (Wagholi) and Jwala Auto Engineers\\[torc 4x4\\] (Chinchwad).\n\nDo you guys have any other suggestions from personal or shared experiences.",
+        "hashtags": [],
+        "mentions": [],
+        "emojis": [],
+        "location": {
+            "profile_location": null,
+            "geo_location": null,
+            "nlp_location": "Pune, India",
+            "final_location": "Pune, India",
+            "tier": "Tier-1",
+            "country": "India",
+            "state": "Maharashtra",
+            "city": "Pune"
+        },
+        "sentiment": {
+            "label": "neutral",
+            "score": 0.0
+        },
+        "keywords": [
+            "looking",
+            "car",
+            "garages",
+            "specializes",
+            "era",
+            "tata"
+        ],
+        "aspects": [
+            {
+                "aspect": "performance",
+                "sentiment": "neutral",
+                "score": 0.0
+            },
+            {
+                "aspect": "design",
+                "sentiment": "neutral",
+                "score": 0.0
+            },
+            {
+                "aspect": "price",
+                "sentiment": "neutral",
+                "score": 0.0
+            },
+            {
+                "aspect": "service",
+                "sentiment": "neutral",
+                "score": 0.0
+            }
+        ],
+        "intent": "query",
+        "embedding": null,
+        "embedding_model": null,
+        "processed_at": "2025-10-03T17:04:06.606147Z",
+        "source_id": "reddit:be7c7a91b9f6"
+    },
+    {
+        "platform": "reddit",
+        "username": "wearethechompions",
+        "timestamp": "2025-03-28T14:50:16Z",
+        "vehicle_model": "Tata Harrier",
+        "competitor_models": [
+            "Tata Safari",
+            "Mahindra XUV700",
+            "Hyundai Creta",
+            "Kia Seltos"
+        ],
+        "content": "Things To Do In Pune - Weekend of Mar 29th, Mar 30th. Hello hello! Events lineup for this weekend! (apologies about the delay!) \n\n*Dedicated group for all weekly events compilations and also events that we might miss covering (all events related posts will be shared here only from Apr onwards)* - https://bit.ly/4h5EFQW\n\n*This is a non commercial post, all events are directly linked. Pic - Bungalow with beautiful ornamentation, in one of the bylanes of Prabhat Road*\n\n21st Mar to 30th Mar : *Lock the Box Bookfest*. 10AM, Nyati Plaza - Kharadi, free entry. Details - https://bit.ly/4inv9JK\n\n27th Mar : *The Alchemy of Brewing w/ Prof. Pradeep Apte - Pune KnOT Series*. 6:30PM, Wynkk - Aundh, 300\n(cover charge). Regn - https://bit.ly/4hUwkiB\n\n28th Mar : *\u090f\u0915\u093e\u092e\u0947\u0933\u0940\u0902 / Ekameli - Bhakti through the abhangs of Sant Tukaram w/ Poet Chandrakant Redican - by The Corinthian's Literati*. 5:30PM, The Corinthian's Club - Mohammadwadi, 100 (for non members, pay at reception). RSVP - 9422517939\n\n29th Mar : *Tree Mapping Session w/ Nisarg Sevak Group & Pune River Revival*. 8:30AM, RTO Check - Pimple Nilakh, free. Regn - https://bit.ly/3XBrdg7\n\n29th Mar : *Narayan Peth Breakfast Walk w/ The Western Routes*. 8:30AM, Kesari Wada, 900 (incl unltd food). Regn - https://bit.ly/4iI5xY7\n\n29th Mar : *Somwar Peth Heritage Walk w/ Pune Heritage Walks*. 8:30AM, Shree Trishunda Ganpati Mandir - Somwar Peth, 300. Regn - https://bit.ly/3E9X4xM\n\n29th Mar to 30th Mar : *Lego Builder Series w/ Brics and Cubes - celebrating 1 year anniversary*. Multiple timings, Bricks and Cubes - Baner, 499. Regn - https://bit.ly/3XAaycQ\n\n29th Mar : *CAMP-photoSTORYwalk w/ Serendipity Dreamers *. 4:45PM, Cafe Yezdan - Camp, 100 (incl cold drink). Regn - https://bit.ly/429IpuL\n\n29th Mar : *Screening - Duniya Na Mane (1937), dir - V. Shantaram*. 5PM, NFAI, free (FCFS). Details - https://bit.ly/4j09Z48\n\n29th Mar : *Astro-photography Camp by Nisargshala*. 5:30PM, Velhe, 1500. Regn - https://bit.ly/4ilrFHI\n\n29th Mar : *Screening - Presence (2024), Dir - Steven Soderbergh*. 6PM, Watermark Film Club - Kothrud, 300. RSVP mandatory - WhatsApp only 9422016044\n\n30th Mar : *Workshop on Hosting & Entertaining Guests w/ Karen Anand Gourmet*. 5PM, Nature's Basket - Nexus Westend Mall Aundh, free. Regn - https://bit.ly/4hSnVwq\n\n30th Mar : *Mandai Heritage Walk w/ Pune Heritage Walks*. 8:30AM, Pune Nagar Vachan Mandir - Laxmi Road, 300. Regn - https://bit.ly/4iOy3aL\n\n*Later*\n05th Apr to 06th Apr : *Amanora Ice Cream Fest*. 12PM, Amanora Mall, free entry. Details - https://bit.ly/3XzKyye\n\n06th Apr : *Get to taste 7 pork dishes from some of the best homechefs in Pune, under one roof & with some craft beers! by The Calcutta PorkAddicts - Pune Chapter*. 12:30PM onwards. Details - https://bit.ly/tcppunewa\n\n06th Apr : *ITR - A Poetic Evening by Vishal Bagh w/ Jashn e Uns*. 7PM, Firodia Hall - Bhandarkar Institute, 330. Ticket - https://bit.ly/3DZN4Y3\n\n12th Apr : *Pune Hush House Harriers Run #174 - drinking club with a running problem*. 4PM, 100. Details - https://bit.ly/ph3wagrp\n\n*Ongoing*\n16th Mar to 06th Apr : *Solo Exhibition - Tandra, by Abhishek Pandey*. 11AM, Monalisa Kalagram - KP, free.\n\n23rd Feb to 19th Apr : *Solo Exhibition - Silent Meander by Aparajita Jain Mahajan*. 11AM, VHC - KP, entry free.\n\n*Recurring*\nSaturdays : \n- *East Pune Reads*, free. https://bit.ly/3SVJNfN\n\nSundays : \n- *Pune Old City Heritage Walks*, 625. https://bit.ly/3IimOXn\n- *Plogging w/ Pune Ploggers*, free. https://bit.ly/4bPabk2\n\nCome across something interesting? Share with us! We focus on events around travel, food, heritage & history.\n\nPlease follow our WA channel - http://bit.ly/watcchannel for events across India. Do share with your friends too! \n\nAll our links on - https://linktr.ee/wearethechompions",
+        "hashtags": [
+            "#174"
+        ],
+        "mentions": [],
+        "emojis": [],
+        "location": {
+            "profile_location": null,
+            "geo_location": null,
+            "nlp_location": "Pune, India",
+            "final_location": "Pune, India",
+            "tier": "Tier-1",
+            "country": "India",
+            "state": "Maharashtra",
+            "city": "Pune"
+        },
+        "sentiment": {
+            "label": "positive",
+            "score": 0.43
+        },
+        "keywords": [
+            "things",
+            "pune",
+            "weekend",
+            "mar",
+            "hello",
+            "events"
+        ],
+        "aspects": [
+            {
+                "aspect": "infotainment",
+                "sentiment": "positive",
+                "score": 0.43
+            }
+        ],
+        "intent": "complaint",
+        "embedding": null,
+        "embedding_model": null,
+        "processed_at": "2025-10-03T17:04:06.607510Z",
+        "source_id": "reddit:b0a607278877"
+    },
+    {
+        "platform": "reddit",
+        "username": "wearethechompions",
+        "timestamp": "2025-03-07T11:38:34Z",
+        "vehicle_model": "Tata Harrier",
+        "competitor_models": [
+            "Tata Safari",
+            "Mahindra XUV700",
+            "Hyundai Creta",
+            "Kia Seltos"
+        ],
+        "content": "Things to do in Pune - Weekend of Mar 08th, Mar 09th. Hello hello! Great lineup of events this weekend - lookout for the Women's Day special walk by Ayan Heritage Walks and Pune Heritage Walks. \n\n*Dedicated group for all weekly events compilations and also events that we might miss covering (since it takes lot of time to post on individual groups)* - https://bit.ly/4h5EFQW\n\n*This is a non commercial post, all events are directly linked. Pic - Lovely bungalow on Prabhat Road*\n\n01st Mar to 11th Mar : *Seed Stories - Interactions, Workshops, Readings, Performances*. 10AM, Monalisa Kalagram - KP, free entry. Regn - https://bit.ly/4iiTC2w\n\n08th Mar : *Sinhagad Fort Cleanup Drive*. 6AM, Sinhagad Fort Paytha, 50 (contribution for dustbin bag-mask-gloves). RSVP - 7822859726\n\n08th Mar : *Tree Walk at Empress Botanical Garden*. 7AM, RRBCEA, 50. Regn - https://bit.ly/3QN16yP\n\n08th Mar : *Women Of Pune - special walk w/ Ayan Heritage Walks*. 7:30AM, Shaniwar Wada, 300. Regn - 9503759415\n\n08th Mar : *Sadashiv Peth Khadadi Walk w/ The Western Routes*. 9AM, SP College Main Gate, 900 (incl food at all locations). Regn - https://bit.ly/3Cv2iTN\n\n08th Mar : *Women of Pune Heritage Walk w/ Pune Heritage Walks*. 9AM, Shaniwar Wada, 300. Regn - https://bit.ly/3Fke0Ss\n\n08th Mar : *Sindhi Halchal Archive w/ Curating for Culture*. 10AM, The Museum of Cartoon Art - Savitribai Phule Pune University, free entry. Details - https://bit.ly/3F6wSEq\n\n08th : *Mulan Cha Theva - Heritage of Roots, over 100 varieties of tubers on display and food tasting*. 11AM, College of Agriculture - Pune, free entry. Details - https://bit.ly/3F9IWVv\n\n08th Mar : *Pune Hush House Harriers Run #173 - Ghoradeshwar - drinking club with a running problem*. 4PM, 100. Details - https://bit.ly/ph3wagrp\n\n08th Mar : *Collage & Bind Your Own Journal*. 4PM, Largo Pizzeria - Prabhat Road, 950 (includes FnB + materials). Regn - https://bit.ly/43qBj76\n\n08th Mar : *Baneshwar Cave Heritage Walk w/ Anubhav Heritage Walks*. 5PM, 300. Regn - 9359893092\n\n08th Mar : *Special screening - Kamlabai & The Lady from Constantinople*. 6PM, NFAI, free (FCFS). Details - https://bit.ly/3F9Jg6F\n\n08th Mar : *Restoring Health Through Equilibrium*. 6PM, New Acropolis Pune - KP, free. RSVP - https://bit.ly/3FboeEK\n\n08th Mar : *Kausar Baug Ramzan Food Walk w/ Husein*. 7PM, Kausar Baug, 1900. Regn - 7066032896\n\n09th Mar : *Shivneri Fort & Junnar - Heritage Day Trip w/ Pune Heritage Walks*. 6AM, Shivajinagar, 2500. Regn - 9130641707\n\n09th Mar : *Flavours for Her - Women's Day Feast of diverse dishes*. 12PM, Mauji Time Cafe, 800 (pre-booking only). Reservations - 7387865902\n\n09th Mar : *Indugle in a Chinese New Year Themed Meal w/ The Calcutta PorkAddicts - Pune Chapter*. 12:30PM, Vicki\u2019s - Salunke Vihar, 1400. Details - https://bit.ly/tcppunewa\n\n09th Mar : *Soothing Carnatic Melodies by Dr. Palghat Ramprasad w/ Poona Sangeetha Sabha*. 5:30PM, Pt. Bhimsen Joshi Kaalamandir - Aundh, 200. Tickets - https://bit.ly/4i9AeVN\n\n09th Mar : *Play - Jump - A Black Comedy w/ The Spotlight Forum*. 6:30PM, The Box - Erandwane, 400. Tickets - https://bit.ly/4btW1oE\n\n*Later*\n11th Mar to 16th Mar : *Exhibition - Celebrating Pune w/ Art Pune Foundation*. 11AM, Raja Ravi Varma Art Gallery, free entry. In case artists wish to exhibit their works for sale (no commission on sales), contact 9325499599\n\n16th Mar : *Bavdhan\u2019s First-Ever Iftaar Pop-Up*. 7PM, Tipsy Turtle - Bavdhan, 1299. Booking - https://bit.ly/3F5f2Su\n\n*Ongoing*\n23rd Feb to 19th Apr : *Solo Exhibition - Silent Meander by Aparajita Jain Mahajan*. 11AM, VHC - KP, entry free.\n\n*Recurring*\nSaturdays : \n- *East Pune Reads*, free. https://bit.ly/3SVJNfN\n\nSundays : \n- *Pune Old City Heritage Walks*, 625. https://bit.ly/3IimOXn\n- *Plogging w/ Pune Ploggers*, free. https://bit.ly/4bPabk2\n\nCome across something interesting? Share with us! We focus on events around travel, food, heritage & history.\n\nPlease follow our WA channel - http://bit.ly/watcchannel for events across India. Do share with your friends too! \n\nAll our links on - https://linktr.ee/wearethechompions\n\nCheers!",
+        "hashtags": [
+            "#173"
+        ],
+        "mentions": [],
+        "emojis": [],
+        "location": {
+            "profile_location": null,
+            "geo_location": null,
+            "nlp_location": "Pune, India",
+            "final_location": "Pune, India",
+            "tier": "Tier-1",
+            "country": "India",
+            "state": "Maharashtra",
+            "city": "Pune"
+        },
+        "sentiment": {
+            "label": "positive",
+            "score": 0.43
+        },
+        "keywords": [
+            "things",
+            "pune",
+            "weekend",
+            "mar",
+            "hello",
+            "great"
+        ],
+        "aspects": [
+            {
+                "aspect": "performance",
+                "sentiment": "positive",
+                "score": 0.43
+            },
+            {
+                "aspect": "infotainment",
+                "sentiment": "positive",
+                "score": 0.43
+            },
+            {
+                "aspect": "design",
+                "sentiment": "positive",
+                "score": 0.43
+            }
+        ],
+        "intent": "praise",
+        "embedding": null,
+        "embedding_model": null,
+        "processed_at": "2025-10-03T17:04:06.608865Z",
+        "source_id": "reddit:06b32af90761"
+    },
+    {
+        "platform": "reddit",
+        "username": "wearethechompions",
+        "timestamp": "2025-02-28T07:27:38Z",
+        "vehicle_model": "Tata Harrier",
+        "competitor_models": [
+            "Tata Safari",
+            "Mahindra XUV700",
+            "Hyundai Creta",
+            "Kia Seltos"
+        ],
+        "content": "Things to do in Pune - Weekend of Mar 01st, Mar 02nd. Hello hello! It's *National Science Day today - 28th Feb in honour of Dr. C V Raman*. This weekend has a great lineup of interesting events. \n\n*New group for events that we might miss covering in the weekly list (no spam, promise)* - https://bit.ly/4h5EFQW\n\n*This is a non commercial post, all events are directly linked. Pic - quarters of Nivara, old age home in Sadashiv Peth. Estd in 1940, this was earlier the 'David Sassoon Infirm Asylum between 1870 to 1940*\n\n27th Feb to 02nd Mar : *National Science Day celebrations w/ Pimpri Chinchwad Science Park*. 10AM, PC Science Park, 60 (park entry). Details - https://bit.ly/41AmzRS\n\n28th Feb to 01st Mar : *National Science Day 2025 Celebrations w/ NCRA TIFR*. 9:30AM, NCRA TIFR - Aundh Khadki Road, free entry. Details - https://bit.ly/4h3zssj\n\n28th Feb to 02nd Mar : *Swaad Utsav - Pune's First Food and Kitchen Expo*. 11AM, Mauli Garden - Baner, free entry. Details - https://bit.ly/4hTSWRq\n\n28th Feb : *National Science Day Celebrations w/ IUCCA*. 10AM, IUCCA Campus - Ganeshkhind, entry free. Details - https://bit.ly/3QDlsdZ\n\n28th Feb : *National Science Day Celebrations at IISER*. 10AM, IISER - Aundh, free entry. Regn - https://bit.ly/3EUPB5T. Details - https://bit.ly/3QGMYHi\n\n28th Feb : *Films Division Fridays - screening of selected newsreels & films*. 6PM, NFAI, free (FCFS). Details - https://bit.ly/3QEzfRE\n\n01st Mar : *Revolution Heritage Walk w/ Pune Heritage Walks*. 9AM, Raje Umaji Naik Smarak, 300. Regn - https://bit.ly/3QAiQNU\n\n01st Mar to 11th Mar : *Seed Stories - Interactions, Workshops, Readings, Performances*. 10AM, Monalisa Kalagram - KP, free entry. Regn - https://bit.ly/4iiTC2w\n\n01st Mar : *Green Umbrella - Pune's Only Sustainable Lifestyle Exhibition*. 10:30AM, Pocha Hall - Bund Garden Hall, entry free. Details - https://bit.ly/3QzfN8R\n\n01st Mar : *Luv's Camp Food Walk*. 4PM, Camp, 800 (incl food tastings). Regn - https://bit.ly/4h3b4H0\n\n01st Mar : *Stargazing Event & Camping w/ AXSX Astronomy*. 4PM, Velhe, 3490. Regn - https://bit.ly/4iiTGPO\n\n01st Mar : *Grand Planet Alignment and Star Gazing w/ Wonders of Universe*. 4PM, Toranmachi - Velhe, 2600. Regn - GPay on 9011032806. Contact - 8788526039\n\n01st Mar : *Creators Mandal 2025 - watch your favourite Marathi content creators live*. 5PM, Venue - TBA, 399 onwards. Tickets - https://bit.ly/3EQQo7N\n\n02nd Feb : *Pune Highlights Heritage Walk w/ Pune Heritage Walks*. 9AM, Shaniwar Wada, 550. Regn - https://bit.ly/3XlmW0l\n\n02nd Mar : *Play - Water Lily's The Greatest Show on Earth*. 7PM, Creaticity Amphitheatre, 500 onwards. Tickets - https://bit.ly/4ik1BfN\n\n*Later*\n08th Mar : *Pune Hush House Harriers Run #173 - Ghoradeshwar - drinking club with a running problem*. 4PM, 100. Details - https://bit.ly/ph3wagrp\n\n09th Mar : *Indugle in a Chinese New Year Themed Meal w/ The Calcutta PorkAddicts - Pune Chapter*. 12:30PM, Vicki\u2019s - Salunke Vihar, 1400. Details - https://bit.ly/tcppunewa\n\n08th Mar : *Baneshwar Cave Heritage Walk w/ Anubhav Heritage Walks*. 5PM, 300. Regn - 9359893092\n\n*Ongoing*\n23rd Feb to 28th Feb : *Chitramahal - Princely Encounters with Photography & Film*. 11AM, The Black Box - Pan Card Club Rd, free entry. Details - https://bit.ly/436mGpn\n\n23rd Feb to 19th Apr : *Solo Exhibition - Silent Meander by Aparajita Jain Mahajan*. 11AM, VHC - KP, entry free.\n\n*Recurring*\nSaturdays : \n- *East Pune Reads*, free. https://bit.ly/3SVJNfN\n\nSundays : \n- *Pune Old City Heritage Walks*, 625. https://bit.ly/3IimOXn\n- *Plogging w/ Pune Ploggers*, free. https://bit.ly/4bPabk2\n\nCome across something interesting? Share with us! We focus on events around travel, food, heritage & history.\n\nPlease follow our WA channel - http://bit.ly/watcchannel for events across India. Do share with your friends too! \n\nAll our links on - https://linktr.ee/wearethechompions",
+        "hashtags": [
+            "#173"
+        ],
+        "mentions": [],
+        "emojis": [],
+        "location": {
+            "profile_location": null,
+            "geo_location": null,
+            "nlp_location": "Pune, India",
+            "final_location": "Pune, India",
+            "tier": "Tier-1",
+            "country": "India",
+            "state": "Maharashtra",
+            "city": "Pune"
+        },
+        "sentiment": {
+            "label": "positive",
+            "score": 0.43
+        },
+        "keywords": [
+            "things",
+            "pune",
+            "weekend",
+            "mar",
+            "hello",
+            "national"
+        ],
+        "aspects": [
+            {
+                "aspect": "performance",
+                "sentiment": "positive",
+                "score": 0.43
+            },
+            {
+                "aspect": "infotainment",
+                "sentiment": "positive",
+                "score": 0.43
+            },
+            {
+                "aspect": "design",
+                "sentiment": "positive",
+                "score": 0.43
+            }
+        ],
+        "intent": "complaint",
+        "embedding": null,
+        "embedding_model": null,
+        "processed_at": "2025-10-03T17:04:06.611457Z",
+        "source_id": "reddit:04f19c0adff5"
+    },
+    {
+        "platform": "reddit",
+        "username": "wearethechompions",
+        "timestamp": "2025-04-04T04:09:27Z",
+        "vehicle_model": "Tata Harrier",
+        "competitor_models": [
+            "Tata Safari",
+            "Mahindra XUV700",
+            "Hyundai Creta",
+            "Kia Seltos"
+        ],
+        "content": "Things to do in Pune - Weekend of Apr 05th, Apr 06th. Hello hello! We have a varied events lineup for this weekend - from temple walks, jazz festival, homechefs porkout, film screenings and poetry evening. \n\n*Exclusive group for all weekly events compilations and also events that we might miss covering (all events related posts will be shared here only from Apr onwards)* - https://bit.ly/4h5EFQW\n\n*This is a non commercial post, all events are directly linked. Pic - house on Jedhe Prasad Road, that still has the fine grill work in the balconies from yesteryears.*\n\n04th Apr to 13th Apr : *World Jazz Festival*. 6:30PM, Sakal Lalit Kalaghar - Gultekadi, 500 onwards. Tickets - https://bit.ly/447qrLN\n\n05th Apr to 06th Apr : *Amanora Ice Cream Fest*. 12PM, Amanora Mall, free entry. Details - https://bit.ly/3XzKyye\n\n05th Apr : *Tree Walk w/ Mr. Abhijit & Mrs. Madhura*. 7:45AM, Ramnadi - Mula Confluence: Devrai, free. Details - https://bit.ly/4ci6P9L\n\n05th Apr : *Rock Climbing Meetup w/ Adventure Pulse (beginner friendly)*. 8:30AM, JM Road, 200. Regn - https://bit.ly/41Y3Rnz\n\n05th Apr : *Old City Breakfast Walk w/ The Western Routes*. 9AM, Mandai Police Chowki, 900 (unltd food at all stops). Regn - https://bit.ly/3XWYP9a\n\n05th Apr : *Insectales - Taxonomy with a Twist - The Stories Behind Insect Names w/ Mitrakida*. 6PM, Sevasadan English Medium School, free. Details - https://bit.ly/4cdYeF4\n\n05th Apr : *Screening - Architecton (2024), dir - Victor Kossakovsky, lang - Italian (eng subtitles)*. 6PM, Watermark Film Club - Kothrud, 300. RSVP mandatory - WhatsApp only 9422016044\n\n06th Apr : *Video Journal Making Walk w/ Manngadhant*. 7AM, Phule Mandai, 250. Regn - https://bit.ly/4ceNypO\n\n06th Apr : *Tree Walk*. 7AM, RRBCEA - Empress Garden, 50. Regn - https://bit.ly/4cgkqPb\n\n06th Apr : *Canopies of Prabhat Road - A Tree Walk Along the Historic Avenue*. 7AM, Regal Bakery - Prabhat Road, free. Regn mandatory - 9822401936. Details - https://bit.ly/3FWhgUI\n\n06th Apr : *Spider Observation Walk w/ Atharva*. 7:30AM, Ramnadi - Mula Confluence: Devrai, free. Details - https://bit.ly/42mC535\n\n06th Apr : *Ram Navami Special Heritage Walk of Ram Temples w/ Bhramankosh*. 7:30AM, Jilbya Maruti Temple - Shukrawar Peth, 375. Regn - 7769869185\n\n06th Apr : *Get to taste 7 pork dishes from some of the best homechefs in Pune, under one roof & paired with some craft beers! by The Calcutta PorkAddicts - Pune Chapter*. 12:30PM onwards. Details - https://bit.ly/tcppunewa\n\n06th Apr : *ITR - A Poetic Evening by Vishal Bagh w/ Jashn e Uns*. 7PM, Firodia Hall - Bhandarkar Institute, 330. Ticket - https://bit.ly/3DZN4Y3 \n\n\n*Later*\n12th Apr : *Hanuman Jayanti Special Walk of Hanuman Temples w/ Ayan Heritage Walks*. 7:30AM, Tulshibaug Ram Mandir, 300. Regn - 9503759415\n\n19th Apr : *Pune Hush House Harriers Run #174 - Camp Mein Mangal - drinking club with a running problem*. 4PM, 100. Details - https://bit.ly/ph3wagrp\n\n19th Apr : *Boardgame - Punched Up - challenges and prizes to be won*. 7PM, Hippie@Heart - Kothrud, 89. Regn - 9561000991\n\n*Ongoing*\n16th Mar to 06th Apr : *Solo Exhibition - Tandra, by Abhishek Pandey*. 11AM, Monalisa Kalagram - KP, free.\n\n23rd Feb to 19th Apr : *Solo Exhibition - Silent Meander by Aparajita Jain Mahajan*. 11AM, VHC - KP, entry free.\n\n*Recurring*\nSaturdays : \n- *East Pune Reads*, free. https://bit.ly/3SVJNfN\n\nSundays : \n- *Pune Old City Heritage Walks*, 625. https://bit.ly/3IimOXn\n- *Plogging w/ Pune Ploggers*, free. https://bit.ly/4bPabk2\n\nCome across something interesting? Share with us! We focus on events around travel, food, heritage & history.\n\nPlease follow our WA channel - http://bit.ly/watcchannel for events across India. Do share with your friends too! \n\nAll our links on - https://linktr.ee/wearethechompions\n\nCheers!",
+        "hashtags": [
+            "#174"
+        ],
+        "mentions": [
+            "@Heart"
+        ],
+        "emojis": [],
+        "location": {
+            "profile_location": null,
+            "geo_location": null,
+            "nlp_location": "Pune, India",
+            "final_location": "Pune, India",
+            "tier": "Tier-1",
+            "country": "India",
+            "state": "Maharashtra",
+            "city": "Pune"
+        },
+        "sentiment": {
+            "label": "positive",
+            "score": 0.43
+        },
+        "keywords": [
+            "things",
+            "pune",
+            "weekend",
+            "apr",
+            "hello",
+            "varied"
+        ],
+        "aspects": [
+            {
+                "aspect": "infotainment",
+                "sentiment": "positive",
+                "score": 0.43
+            }
+        ],
+        "intent": "query",
+        "embedding": null,
+        "embedding_model": null,
+        "processed_at": "2025-10-03T17:04:06.612521Z",
+        "source_id": "reddit:0304d998803d"
+    },
+    {
+        "platform": "reddit",
+        "username": "wearethechompions",
+        "timestamp": "2025-04-10T16:19:17Z",
+        "vehicle_model": "Tata Harrier",
+        "competitor_models": [
+            "Tata Safari",
+            "Mahindra XUV700",
+            "Hyundai Creta",
+            "Kia Seltos"
+        ],
+        "content": "Things to do in Pune - Weekend of Apr 12th, Apr 13th. Hello hello! Threatre festivals, RMC Devrai awareness events, heritage & food walks galore this weekend. Make the most of it! \n\n*Exclusive group for all weekly events compilations and also events that we might miss covering (additional events related posts will be shared here only, from Apr onwards)* - https://bit.ly/4h5EFQW\n\n*This is a non commercial post, all events are directly linked. Pic - Bihari Building, built in 1953; that houses Cafe Naaz amongst other business and residents*\n\n11thApr to 14th Apr : *Pune Kilo Book Fair*. 10AM, Rajyog Banquet Hall - Wakdewadi Shivajinagar, free entry. Details - https://bit.ly/42qAGZ4\n\n11th Apr to 13th Apr : *Manch Theatre Festival - I Killed My Mother, The Open Couple, Rihla*. Multiple dates, timings and venues. Tickets - https://bit.ly/42rmE9N\n\n11th Apr : *Screening - Madhyantara, award winning Kannada short film*. 6PM, NFAI, free. Details - https://bit.ly/4lqvHQU\n\n12th Apr : *Bird Walk*. 7AM, RRBCEA - Empress Garden, 50. Regn - https://bit.ly/4ibiPvg\n\n12th Apr : *Hanuman Jayanti Special Walk of Hanuman Temples w/ Ayan Heritage Walks*. 7:30AM, Tulshibaug Ram Mandir, 300. Regn - 9503759415\n\n12th Apr : *Art at Devrai*. 8AM, Ramnadi - Mula Confluence: Devrai, free (get your own drawing/art material). RSVP - 9665089787\n\n12th Apr : *Tree Mapping (no prior exp needed w/ Pune River Revival*. 8:30AM, Pimple Nilakh - besides Mula river Aundh. Regn - https://bit.ly/4lpyidP\n\n12th Apr : *Tambat Ali Heritage Walk w/ Pune Heritage Walks*. 8:45AM, Shaniwar Wada, 300. Regn - https://bit.ly/3E5904a\n\n12th Apr : *Katha Kahaani - evening of story sharing w/ The Montage Collective*. 5PM, Kamla Nehru Park - Deccan Gymkhana, free. Regn mandatory - https://bit.ly/3G4DmEn\n\n12th Apr : *Philosophical Talk - Evolving Towards Freedom*. 6PM, New Acropolis Pune - KP, free. RSVP - https://bit.ly/43OqBrp\n\n13th Apr : *Sadashiv Peth Food Walk w/ Pune Food Walks*. 8:45AM, ShriKshishna Bhuvan, 200 (excl food tastings). Regn - https://bit.ly/4jcocfa\n\n13th Apr : *Shivaji Nagar Heritage Walk w/ Pune Heritage Walks*. 8:45AM, Pataleshwar Caves Temple, 300. Regn - https://bit.ly/4jx19LP\n\n13th Apr : *Cantonment Snack Walk w/ The Western Routes*. 9AM, JJ Garden - Dastur Meher Road, 1000 (unltd food at all stops). Regn - https://bit.ly/3wVygWB\n\n13th Apr : *6 Sundays Rapid Chess Tournament Series (1st Sunday)*. 9AM, Reliance Mall - Erandwane, 400. Regn - https://bit.ly/3Reohm2\n\n*Later*\n19th Apr : *Pune Hush House Harriers Run #174 - Camp Mein Mangal - drinking club with a running problem*. 4PM, 100. Details - https://bit.ly/ph3wagrp\n\n19th Apr : *L'Amour Millennium - 5 Course French Menu Paired With What The Fox Wines w/ WineBro*. 7PM, Toscano - Phoenix Mall of the Millennium Wakad, 2000. Regn - https://bit.ly/4lmTQrw\n\n20th Apr : *Traditional Easter Brunch at Koregaon Park*. 12PM, Doolally Taproom - KP, 2200 1870 (unltd FnB - use coupon WATC15 for flat 15% off, no upper limit and can be used multiple times). Book - https://bit.ly/3VPiaXQ. Pls DM for full menu.\n\n*Ongoing*\n05th Apr to 21st Apr : *Dastkari Summer Haat*. 11AM, Congress Bhavan - Shivajinagar, free entry. Details - https://bit.ly/43OHkLk\n\n23rd Feb to 19th Apr : *Solo Exhibition - Silent Meander by Aparajita Jain Mahajan*. 11AM, VHC - KP, entry free.\n\n*Recurring*\nSaturdays : \n- *East Pune Reads*, free. https://bit.ly/3SVJNfN\n\nSundays : \n- *Pune Old City Heritage Walks*, 625. https://bit.ly/3IimOXn\n- *Plogging w/ Pune Ploggers*, free. https://bit.ly/4bPabk2\n\n*F&B News*\n- Chug Biergarten has has opened in Atria Mall, Baner. 20h craft beers on tap.\n- Bantr opens to the public next week. Where GREAT State Dive was earlier. \n- Soy Como Soy has moved to KP, where Boteco was earlier. \n\nCome across something interesting? Share with us! We focus on events around travel, food, heritage & history.\n\nPlease follow our WA channel - http://bit.ly/watcchannel for events across India. Do share with your friends too! \n\nAll our links on - https://linktr.ee/wearethechompions",
+        "hashtags": [
+            "#174"
+        ],
+        "mentions": [],
+        "emojis": [],
+        "location": {
+            "profile_location": null,
+            "geo_location": null,
+            "nlp_location": "Pune, India",
+            "final_location": "Pune, India",
+            "tier": "Tier-1",
+            "country": "India",
+            "state": "Maharashtra",
+            "city": "Pune"
+        },
+        "sentiment": {
+            "label": "positive",
+            "score": 0.43
+        },
+        "keywords": [
+            "things",
+            "pune",
+            "weekend",
+            "apr",
+            "hello",
+            "threatre"
+        ],
+        "aspects": [
+            {
+                "aspect": "infotainment",
+                "sentiment": "positive",
+                "score": 0.43
+            }
+        ],
+        "intent": "query",
+        "embedding": null,
+        "embedding_model": null,
+        "processed_at": "2025-10-03T17:04:06.614660Z",
+        "source_id": "reddit:e4a4a3f067c0"
+    },
+    {
+        "platform": "reddit",
+        "username": "wearethechompions",
+        "timestamp": "2025-05-09T06:18:20Z",
+        "vehicle_model": "Tata Harrier",
+        "competitor_models": [
+            "Tata Safari",
+            "Mahindra XUV700",
+            "Hyundai Creta",
+            "Kia Seltos"
+        ],
+        "content": "Things to do in Pune - Weekend of May 10th, May 11th. Hello hello! Plays, open mics, quizzes, river-heritage-food walks; there's something for everyone this weekend. \n\n*Exclusive group for all interesting Pune events and the weekly compilations (and some offers too!)* - https://bit.ly/4h5EFQW\n\n*This is a non commercial post, all events are directly linked. Pic - United Services Library, estd 1818. Located within Poona Club, it predates the club. At ~2500/year as fees, it let's you borrow four books at a time for a month. Open all days of the week, from 9:30AM and boasts of a huge collection. Truly a booklover's haven*\n\n06th May to 11th May : *Play - Manto's Ismat Hazir Hain w/ Naseerudin Shah\u2019s Motley*. Multiple dates and timings, Shreeram Lagoo Rang-Avkash - Shukrawar Peth, 500. Tickets - https://bit.ly/4joQv9w\n\n09th May : *The Hour - Poetry & Dance Performances*. 7PM, French Window Patisserie - KP, free entry. \n\n10th May & 11th May : *Play in Ahirani (dialect of Marathi) - Aina, based on original story by Chiomi Hara*. Multiple timings, The Box - Erandwane, 250. Tickets - 9011062763\n\n10th May : *Shaniwar Peth Heritage Walk w/ Pune Heritage Walks*. 8:45AM, Shaniwar Wada, 250. Regn - https://bit.ly/3GK0MiC\n\n10th May : *Open Mela Quiz & Shyam Bhatt Open Quiz at Silhouette 2025 - AFMC's Annual Sports, Cultural & Literary Fest*. 10AM & 2:30PM, AFMC, 200 (per person, team of 3 reqd for both the quizzes, open to all). Contact - 9108743637. Regn - https://bit.ly/4jQxihO\n\n10th May : *Saturday Writing (every 2nd and 4th Saturday) w/ Pune Writers' Group*. 11:30AM, Kitabi Chai - NIBM Rd, free. Details - https://bit.ly/4iQpsmY\n\n10th May : *Canva Create w/ Canva Community Labs*. 5PM, WeWork Amanora Crest - Hadapsar, free. RSVP - https://bit.ly/4k8PjHM\n\n10th May : *The... Other World, A Play for the Planet*. 5:30PM, Bal Gandharva RangMandir, free. RSVP - 9653437014\n\n10th May : *Open Mic Night w/ Sugar Free*. 6PM, The Live Studio - Kothrud, 200 (performer) & 100 (audience) . Regn - https://bit.ly/454mMin\n\n10th May : *Chuninda Vyangya - Hindi Satire Stories by Harishankar Parsai, Krishan Chander, and Pitras Bukhari) w/ Katha Khoj*. 6PM, Vibrant Learning Spaces - Baner, 300. Regn - 9890126888\n\n11th May : *Parikrama - A River Heritage Walk w/ Bhramankosh*. 7:15AM, Shaniwar Wada, 425. Regn - 7769869185\n\n11th May : *Royal Temples Heritage Walk w/ Pune Heritage Walks*. 8:45AM, Shaniwar Wada, 300. Regn - https://bit.ly/42Or63T\n\n11th May : *Old Pune Food Walk w/ Pune Food Walks*. 9AM, Shaniwar Wada, 200. Regn - https://bit.ly/4mdcz9I\n\n11th May : *MindSweep - the International Solo Quizzing Championship & MegaWhats - the National Open Team Quizzing Championships by Karnataka Quiz Association*. 10AM, Goethe Institut/Max Muller Bhavan, free. Regn - https://bit.ly/3SpKBtl\n\n11th May : *Book, Chai & More (every 2nd Sunday) - disc on The Vegetarian by Han Kang*. 4PM, Raah, free entry. Details - https://bit.ly/452zwpD\n\n11th May : *Suno Saheli - women only community meetup w/ Drishtikoan*. 5PM, Shivajinagar, 299 (incl F&B). Regn - https://bit.ly/43uxJHR\n\n11th May : *Open Mic w/ Chaayree*. 5PM, The Mic Loft Studio, 300 (performers) & 200 (audience). Regn - https://bit.ly/3StE2pG\n\n*Special Brunch*\n11th May : *Mother's Day Celebrations with Sunday Brunch Club*. 12PM, Nanna's Negroni, 1750+taxes (unltd food, cocktails a la carte). Reservations - 9637273609 \n\n*Later*\n17th May : *Pune Hush House Harriers Run #176 - drinking club with a running problem*. 4PM, 100. Details - https://bit.ly/ph3wagrp\n\n25th May : *Global Photowalk Event - Pune w/ BlaBla Language Exchange*. 2PM, Kasba Peth, free. Details - https://bit.ly/3SpbKN8\n\n*Recurring*\nSaturdays : \n- *East Pune Reads*, free. https://bit.ly/3SVJNfN\n\nSundays : \n- *Pune Old City Heritage Walks*, 625. https://bit.ly/3IimOXn\n- *Plogging w/ Pune Ploggers*, free. https://bit.ly/4bPabk2\n\n*F&B News*\n- Deep Dive 6 (celebration of craft beers from across MH) happening over 09th May to 11th May. Details - https://bit.ly/432FYdK\n\nCome across something interesting? Share with us! We focus on events around travel, food, heritage & history.\n\nPlease follow our WA channel - http://bit.ly/watcchannel for events across India. Do share with your friends too! \n\nAll our links on - https://linktr.ee/wearethechompions",
+        "hashtags": [
+            "#176"
+        ],
+        "mentions": [],
+        "emojis": [],
+        "location": {
+            "profile_location": null,
+            "geo_location": null,
+            "nlp_location": "Pune, India",
+            "final_location": "Pune, India",
+            "tier": "Tier-1",
+            "country": "India",
+            "state": "Maharashtra",
+            "city": "Pune"
+        },
+        "sentiment": {
+            "label": "neutral",
+            "score": 0.0
+        },
+        "keywords": [
+            "things",
+            "pune",
+            "weekend",
+            "hello",
+            "plays",
+            "open"
+        ],
+        "aspects": [
+            {
+                "aspect": "performance",
+                "sentiment": "neutral",
+                "score": 0.0
+            },
+            {
+                "aspect": "comfort",
+                "sentiment": "neutral",
+                "score": 0.0
+            },
+            {
+                "aspect": "safety",
+                "sentiment": "neutral",
+                "score": 0.0
+            },
+            {
+                "aspect": "service",
+                "sentiment": "neutral",
+                "score": 0.0
+            }
+        ],
+        "intent": "complaint",
+        "embedding": null,
+        "embedding_model": null,
+        "processed_at": "2025-10-03T17:04:06.616193Z",
+        "source_id": "reddit:1389a8fb29bd"
+    },
+    {
+        "platform": "reddit",
+        "username": "wearethechompions",
+        "timestamp": "2025-04-25T05:57:45Z",
+        "vehicle_model": "Tata Harrier",
+        "competitor_models": [
+            "Tata Safari",
+            "Mahindra XUV700",
+            "Hyundai Creta",
+            "Kia Seltos"
+        ],
+        "content": "Things to do in Pune - Weekend of Apr 26th, Apr 27th. Hello hello! Plays, workshops, heritage & photo walks galore this weekend. \n\n*Exclusive group for all weekly events compilations and also those that we might miss covering. Maybe some offers too (additional events related posts will be shared here only, from Apr onwards)* - https://bit.ly/4h5EFQW\n\n*This is a non commercial post, all events are directly linked. Pic - View of Mujumdar Lane from the upper floor of Sardar Mujumdar Wada*\n\n23rd Apr to 26th Apr : *Heritage Yatra w/ MIT & PMC*. 10AM, P.L. Deshpande Kalagram - Dattawadi, free. Schedule & details - https://bit.ly/4lKGQfF. Regn - https://bit.ly/42M2VBR\n\n24th Apr : *Pune Knowledge on Tap Series - Siddhesh Kamat of IISER Pune, talking about their work on lyso-PS*. 6:30PM, Wynkk - Aundh, 300 (cover charge, redeemable). Regn - https://bit.ly/4lC49bu\n\n25th Apr : *Boardgames w/ Dice & Dimaag*. 1PM, DY Patil College of Engineering - Lohegaon, free. Regn - https://bit.ly/3ECHPha\n\n25th Apr : *Aroma & Umami - perfume making workshop with a four course dinner (you also take your own perfume home)*. 7PM, Eight - Phoenix Mall of the Millennium Wakad, 1500. RSVP - 7720010611\n\n26th Apr : *Empress Botanical Garden's inaugural Heritage Walk*. 8:30AM, Empress Botanical Garden - Pune Cantonment, 100. Regn - https://bit.ly/449fARM\n\n26th Apr : *Ravivar Peth Heritage Walk w/ Pune Heritage Walks*. 9AM, Mandai Metro Station, 330. Regn - https://bit.ly/3YMaS8K\n\n26th Apr : *Postcard from the French Riviera w/ afpune*. 3PM, Kala Chhaya Campus - Patrakaar Nagar, free. Details - https://bit.ly/4jKss54\n\n26th Apr : *Talk - AI and the World of Tomorrow by Achyut Godbole*. 5PM, MES Balshikshan Auditorium - Kothrud, free entry. RSVP - 9673338098\n\n26th Apr : *Astronomy Divine - The Milky Way Edition w/ Rivers and Ridges*. 5:30PM, Bhor, 2100 (excl transport). Regn - 7350064961. Details - https://bit.ly/4jMDIxW\n\n27th Apr : *Photo Story Walk in Flower Market w/ Montage Art Collective*. 7AM, free. Regn - https://bit.ly/3Yhcg37\n\n27th Apr : *For the River, By the River - Pad Yatra by Citizens. Lets come together for a clean river*. 8AM, Shaheed Ashok Kamthe Garden - Pimple Nilakh, free to join. End point - Near Shmashan Bhumi, Pimple Nilakh.\n\n27th Apr : *Juna Bazar Photo Walk w/ Pune Heritage Walks*. 9AM, Juna Bazar - Kasba Peth, 220. Regn - https://bit.ly/4lM7hBs\n\n27th Apr : *Dungeons & Dragons w/ A Roll o' Dice*. 12PM, Doolally Taproom - KP, 600. Regn (this is beginner friendly) - https://bit.ly/3XYbhot\n\n27th Apr : *Baithak - poetry, conversations & ice cream w/ Baithak and beyond*. 4:30PM, Meridian Icecream - FC Road, 100 (recitation not necessary). Regn - https://bit.ly/3Gqqo40\n\n*Later*\n03rd May : *Joshya\u2019s \u2013 Glass of Culture (wine tasting with food pairing) w/ Sommelier Atharva Joshi*. 7PM, Hippie@Heart - Bhandarkar Road, 2500. Regn - https://bit.ly/3YaYYoT\n\n06th May to 11th May : *Play - Manto's Ismat Hazir Hain w/ Naseerudin Shah\u2019s Motley*. Multiple dates and timings, Shreeram Lagoo Rang-Avkash - Shukrawar Peth, 500. Tickets - https://bit.ly/4joQv9w\n\n10th May : *Pune Hush House Harriers Run #176 - Putting On Our Engineering Hats - drinking club with a running problem*. 4PM, 100. Details - https://bit.ly/ph3wagrp\n\n*Ongoing*\n23rd Apr to 04th May : *Play - The Father ft. Naseeruddin Shah & Ratna Pathak*. 7:30PM, Shreeram Lagoo Rang-Avkash - Shukrawar Peth, 500. Tickets - https://bit.ly/3RxZqtC\n\n*Recurring*\nSaturdays : \n- *East Pune Reads*, free. https://bit.ly/3SVJNfN\n\nSundays : \n- *Pune Old City Heritage Walks*, 625. https://bit.ly/3IimOXn\n- *Plogging w/ Pune Ploggers*, free. https://bit.ly/4bPabk2\n\n*F&B News*\n- Kalyani Tiffin Room (Kalyani Nagar) recently opened its doors and is serving up some delicious & VFM South Indian fare. \n\nCome across something interesting? Share with us! We focus on events around travel, food, heritage & history.\n\nPlease follow our WA channel - http://bit.ly/watcchannel for events across India. Do share with your friends too! \n\nAll our links on - https://linktr.ee/wearethechompions\n\nCheers!",
+        "hashtags": [
+            "#176"
+        ],
+        "mentions": [
+            "@Heart"
+        ],
+        "emojis": [],
+        "location": {
+            "profile_location": null,
+            "geo_location": null,
+            "nlp_location": "Pune, India",
+            "final_location": "Pune, India",
+            "tier": "Tier-1",
+            "country": "India",
+            "state": "Maharashtra",
+            "city": "Pune"
+        },
+        "sentiment": {
+            "label": "neutral",
+            "score": 0.0
+        },
+        "keywords": [
+            "things",
+            "pune",
+            "weekend",
+            "apr",
+            "hello",
+            "plays"
+        ],
+        "aspects": [
+            {
+                "aspect": "performance",
+                "sentiment": "neutral",
+                "score": 0.0
+            }
+        ],
+        "intent": "complaint",
+        "embedding": null,
+        "embedding_model": null,
+        "processed_at": "2025-10-03T17:04:06.617716Z",
+        "source_id": "reddit:ab6288758bae"
+    },
+    {
+        "platform": "reddit",
+        "username": "wearethechompions",
+        "timestamp": "2025-05-01T17:34:00Z",
+        "vehicle_model": "Tata Harrier",
+        "competitor_models": [
+            "Tata Safari",
+            "Mahindra XUV700",
+            "Hyundai Creta",
+            "Kia Seltos"
+        ],
+        "content": "Things to do in Pune - Weekend of May 3rd, May 4th. Hello hello! A packed weekend it is with screenings and heritage walks; might be extended for some of us. Happy Maharashtra Day! \n\n*Exclusive group for all weekly events compilations plus events we might miss covering in the weekly list (and some offers too!)* - https://bit.ly/4h5EFQW\n\n*This is a non commercial post, all events are directly linked. Pic - too much of a coincidence to have spotted this today, the idea that gave birth to _Swaraj_. Jai Maharashtra!*\n\n02nd May : *Heartwarming tales of food, love and life w/ The Storytellers*. 6PM, The Fat Labrador Cafe - Bavdhan, free. Details - https://bit.ly/4lVyiTd\n\n03rd May : *Warli Workshop + Shaniwar Wada Heritage Walk w/ Gullakaari*. 9AM, Shaniwar Wada, 400 (excl Shaniwar Wada entry). Regn - https://bit.ly/4iJU49E\n\n03rd May : *Chinchwad Heritage Walk w/ Pune Heritage Walks*. 9AM, Morya Gosavi Temple - Chinchwad, 300. Regn - https://bit.ly/3YSS3ks\n\n03rd May : *Paper Making Workshop w/ Pune Handmade Papers*. 11AM, Shivajinagar, 750 (walk in regn only). Details - https://bit.ly/4lWZUaC\n\n03rd May : *Screening of 3 movies by Shaji N Karun - Piravil, Kummatty & GAravindan as tribute to him*. 3:30PM, NFAI -Law College Road, free. Details - https://bit.ly/44P6h9G\n\n03rd May : *Journal with Nature*. 5PM, Jogger's Park - Kalyani Nagar, 200. Regn - https://bit.ly/3EHlPlr\n\n03rd May : *Filmmaker's Baithak w/ The Montage Art Collective*. 5PM, Kothrud/Shivajinagar (TBC), free (FCFS). Regn - https://bit.ly/3EMUrm1\n\n03rd May : *Celestial Escape - A Stargazing Night w/ Jyotirvidya Parisanstha*. 5:30PM, Guhini Village - Nr Rajgad Fort, 2500 (stay+transport). Regn - https://bit.ly/4k48liJ\n\n03rd May : *Astronomy Divine - Star Gazing & Camping w/ Rivers and Ridges*. 5:30PM, Bhor, 2100 (excl transport). Contact - 7350064961. Details - https://bit.ly/3EJhsGw\n\n03rd May : *Screening - Explanation for Everything (2023), Dir - G\u00e1bor Reisz, Lang - Hungarian (with Eng subtitles)*. 6PM, Watermark Film Club - Kothrud, 300. RSVP - DM on WhatsApp ONLY 9422016044\n\n03rd May : *Insectales - Extreme Habits, Extraordinary Insects w/ Mitrakida*. 6PM, Sevasadan English Medium School, free. Details - https://bit.ly/3Ype0aL\n\n03rd May : *Philosophical Talk - Inner Life, Lessons from Marcus Aurelius*. 6PM, New Acropolis India - KP, free. Regn - \nhttps://bit.ly/3Ypeb5V\n\n03rd May : *Nirjharer Swapnabhanga (The Awakening of the Fountain) - bilingual musical narrative on Tagore's early life*. 7PM, Innishari Studio - Pimple Nilakh, 300. Tickets - https://bit.ly/42M4xLK\n\n04th May : *Ancient Temple Darshan and Gratitude Yatra*. 7AM, Kasba Ganpati Mandir, free. Regn mandatory - 9011010390\n\n04th May : *Unveiling Pune's Hidden Gems: A Cultural Celebration w/ Bhramankosh*. 7:30AM, Mandai, 600. Regn - 7769869185\n\n04th May : *Shaniwar Wada Heritage Walk w/ Pune Heritage Walks*. 8:45AM, Shaniwar Wada, 400. Regn - https://bit.ly/3SieVGg\n\n*Later*\n06th May to 11th May : *Play - Manto's Ismat Hazir Hain w/ Naseerudin Shah\u2019s Motley*. Multiple dates and timings, Shreeram Lagoo Rang-Avkash - Shukrawar Peth, 500. Tickets - https://bit.ly/4joQv9w\n\n10th May : *Pune Hush House Harriers Run #176 - Putting On Our Engineering Hats - drinking club with a running problem*. 4PM, 100. Details - https://bit.ly/ph3wagrp\n\n10th May & 11th May : *Play in Ahirani (dialect of Marathi) - Aina, based on original story by Chiomi Hara*. Multiple timings, The Box - Erandwane, 250. Tickets - 9011062763\n\n*Ongoing*\n23rd Apr to 04th May : *Play - The Father ft. Naseeruddin Shah & Ratna Pathak*. 7:30PM, Shreeram Lagoo Rang-Avkash - Shukrawar Peth, 500. Tickets - https://bit.ly/3RxZqtC\n\n*Recurring*\nSaturdays : \n- *East Pune Reads*, free. https://bit.ly/3SVJNfN\n\nSundays : \n- *Pune Old City Heritage Walks*, 625. https://bit.ly/3IimOXn\n- *Plogging w/ Pune Ploggers*, free. https://bit.ly/4bPabk2\n\n*F&B News*\n- Dorabjee's to open in KP soon\n\nCome across something interesting? Share with us! We focus on events around travel, food, heritage & history.\n\nPlease follow our WA channel - http://bit.ly/watcchannel for events across India. Do share with your friends too! \n\nAll our links on - https://linktr.ee/wearethechompions",
+        "hashtags": [
+            "#176"
+        ],
+        "mentions": [],
+        "emojis": [],
+        "location": {
+            "profile_location": null,
+            "geo_location": null,
+            "nlp_location": "Pune, India",
+            "final_location": "Pune, India",
+            "tier": "Tier-1",
+            "country": "India",
+            "state": "Maharashtra",
+            "city": "Pune"
+        },
+        "sentiment": {
+            "label": "positive",
+            "score": 0.43
+        },
+        "keywords": [
+            "things",
+            "pune",
+            "weekend",
+            "hello",
+            "packed",
+            "screenings"
+        ],
+        "aspects": [
+            {
+                "aspect": "performance",
+                "sentiment": "positive",
+                "score": 0.43
+            },
+            {
+                "aspect": "infotainment",
+                "sentiment": "positive",
+                "score": 0.43
+            }
+        ],
+        "intent": "praise",
+        "embedding": null,
+        "embedding_model": null,
+        "processed_at": "2025-10-03T17:04:06.619154Z",
+        "source_id": "reddit:d99d1d6a8905"
+    },
+    {
+        "platform": "reddit",
+        "username": "wearethechompions",
+        "timestamp": "2025-06-27T08:11:32Z",
+        "vehicle_model": "Tata Harrier",
+        "competitor_models": [
+            "Tata Safari",
+            "Mahindra XUV700",
+            "Hyundai Creta",
+            "Kia Seltos"
+        ],
+        "content": "Things to do in Pune - Weekend of Jun 28th, Jun 29th. Hello hello! Here's the events drop for this weekend! \n\n*Exclusive group for all interesting Pune events and the weekly compilations (and some offers too!)* - https://chat.whatsapp.com/BgNBknCGmpeBY791cRZxdw\n\n*This is a non commercial post, all events are directly linked. Pic - Grand dome of Mahatma Phule Agricultural Institute in Shivajinagar* \n\n28th Jun : *Tambat Ali Walk w/ The Western Routes*. 9AM, Shaniwar Wada (Dilli Darwaja), 600 (incl snacks & refreshmentsl). Regn - https://myair.link/the-western-routes/explore-the-tambat-ali\n\n28th Jun : *Ravivar Peth Heritage Walk w/ Pune Heritage Walks*. 9AM, Mandai Metro Station, 330. Regn - https://allevents.in/pune/raviwar-peth-heritage-walk-by-phw-tickets/80001853649142\n\n28th Jun : *Blades of Glory Museum Walk, led by Milind Gunjal (ex MH captain) w/ INTACH Pune Chapter*. 10AM, Blades of Glory Museum - Sahakar Nagar 2, 500 (incl museum ticket). Regn mandatory - 8459426907\n\n28th Jun : *Founders Meet Leaders - listen to founders pitching their startups to potential candidates w/ Pune Open Coffee Club*. 11AM, Venture Center NCL Innovation Centre - Pashan, free to join. Regn mandatory - https://punestartups.org/ \n\n28th Jun : *Blind Conversations w/ The Fika*. 11AM, Godaam Cafe - off FC Road, 599 (incl beverage). Regn - https://forms.gle/tXZm9t3fdz1EFi8CA\n\n28th Jun : *Factory Tour + Combo Workshop (paper making, marbling) w/ Pune Handmade Papers*. 11AM, Shivajinagar, 900. Regn - 9960451770. Details - https://www.instagram.com/p/DLUY4Qko129/\n\n28th Jun : *Relevance of Textile in Time w/ Vaishali Oak*. 2PM, Goethe Institut Max Mueller Bhavan - Boat Club Road, free to join. https://www.instagram.com/reel/DLPRqCqoz1S/\n\n28th Jun : *Crochet Club Pune June 2025*. 3PM, Studio Artzone - Bhandarkar Road, 200 (incl of all material). Regn - 9822254472. Details - https://facebook.com/events/s/crochet-club-pune-june-2025/1249600100102748/\n\n28th Jun & 29th Jun : *BRICK IT ON - A day of play with LEGO (access to 60+ sets)*. 4PM to 7PM, Bricks & Cubes Studio - Baner, 699. Regn - https://form.jotform.com/aadixit/legoday-2025-11\n\n28th Jun : *Volunteer Drive for Shri Saibaba Palkhi - distributing tea, coffee & snacks to the varkaris*. 4:30PM, Viman Nagar Crossing Near Phoenix Mall, free to join. RSVP - 8080720276\n\n28th Jun : *Open Poetry Gathering w/ Baithak and beyond*. 4:30PM, Tulips Academy - Baner, 100 (Recitation is NOT compulsory). Regn - https://allevents.in/pune/baithak-open-poetry-gathering-tickets/80003815780654\n\n28th Jun : *Sonar Tori - step into the mind of Gurudev Rabindranath Tagore - through his letters and poems that speak of wonder, solitude, longing, and surrender. Performance in Bangla, Hindi, and English*. 6PM, Innishari Studio - Pimple Nilakh, 300. Tickets - https://www.innishari.com/event-details-registration/sonar-tori\n\n28th Jun : *Screening - Olangthagee Wangmadasoo (1979), dir - Aribam Syam Sharma, lang - Manipuri w/ Eng subtitles*. 6PM, NFAI - Law College Road, free (FCFS). Details - https://www.instagram.com/p/DLXSsB4tQJ1/\n\n28th Jun : *Philosophy - Growing Stronger, Symbol of Pyramid*. 6PM, New Acropolis Pune - KP, free to join. Regn - https://www.eventbrite.com/e/growing-stronger-symbol-of-pyramid-tickets-1307063063809\n\n29th Jun : *Kerala Brunch Pop Up w/ Eating Cultures*. 9AM, In There Lantana Gardens - Bavdhan, 475 (800 for couple, incl of set menu). Pre bookings only - 9850205902\n\n29th Jun : *Pune Camp Food Walk*. 9:30AM, JJ Garden - Camp, 200 (excl food). Regn - https://allevents.in/pune/pune-camp-food-walk-by-pfw-tickets/80003020519398\n\n29th Jun : *Katha Kahaani - an evening full of stories , poetry and literature w/ The Montage Art Collective*. 4PM, Waari Book Cafe - Kothrud, 120. Regn - https://www.instagram.com/p/DJ0bujvCFy5/\n\n29th Jun : *Aranyakand - storytelling session that covers the 12 years of Vanvas w/ Itihaasa*. 5PM, New English School - Sadashiv Peth, 300. Regn - https://pages.razorpay.com/pl_Qgxgs1A9y4o2Ri/view\n\n29th Jun : *Book Meetup Alert - for those who haven't attended any*. 6PM, Aeka's Coffee - Baner, 200. Regn - https://forms.gle/goGwLNHcGdgvPEJJ7\n\n29th Jun : *Goonj of Poetry & Stories w/ Kavita Kafe*. 4:30PM, Monalisa Kalagram - KP, 150 for audience (250 for performer). Regn - GPay on 9822056409. Details - https://www.instagram.com/p/DKb46AjI8fD/\n\n*Later*\n05th Jul : *Pune Hush House Harriers 175th Run Milestone Celebrations with overnight stay, F&B, goodie bag, transport*. 9AM, The Yellow Retreat - Wai, 4999. Details - https://chat.whatsapp.com/Fa7O3jvXUKd1nJEtMUVl4z\n\n*Recurring*\nSaturdays : \n- *East Pune Reads*, free. https://www.instagram.com/reel/C2wdhZfhXT_/\n- *Saturday Writing w/ Pune Writers' Group*, free. https://facebook.com/events/s/saturday-writing/1266571725041452/\n\nSundays : \n- *Pune Old City Heritage Walks*, 625. https://myair.link/the-western-routes/pune-heritage-walk \n- *Plogging w/ Pune Ploggers*, https://www.facebook.com/puneploggers\n\n*F&B News*\n- Coast & Co - the fine dine offering from Janjira Seafood Resto & Bar; is finally open to the public from today 26th Jun. Focus is on coastal fare including some dishes from SE Asia. Located near Ganesh Bhel, Aundh. \n\nCome across something interesting? Share with us! We focus on events around travel, food, heritage & history. \n\nAll our links on our bio\n\nTill we meet again next week, cheers \ud83c\udf7b",
+        "hashtags": [],
+        "mentions": [],
+        "emojis": [
+            "\ud83c\udf7b"
+        ],
+        "location": {
+            "profile_location": null,
+            "geo_location": null,
+            "nlp_location": "Pune, India",
+            "final_location": "Pune, India",
+            "tier": "Tier-1",
+            "country": "India",
+            "state": "Maharashtra",
+            "city": "Pune"
+        },
+        "sentiment": {
+            "label": "neutral",
+            "score": 0.0
+        },
+        "keywords": [
+            "things",
+            "pune",
+            "weekend",
+            "jun",
+            "hello",
+            "here"
+        ],
+        "aspects": [
+            {
+                "aspect": "performance",
+                "sentiment": "neutral",
+                "score": 0.0
+            },
+            {
+                "aspect": "infotainment",
+                "sentiment": "neutral",
+                "score": 0.0
+            }
+        ],
+        "intent": "praise",
+        "embedding": null,
+        "embedding_model": null,
+        "processed_at": "2025-10-03T17:04:06.621022Z",
+        "source_id": "reddit:2bdc2d40204c"
+    },
+    {
+        "platform": "reddit",
+        "username": "wearethechompions",
+        "timestamp": "2025-05-15T15:02:06Z",
+        "vehicle_model": "Tata Harrier",
+        "competitor_models": [
+            "Tata Safari",
+            "Mahindra XUV700",
+            "Hyundai Creta",
+            "Kia Seltos"
+        ],
+        "content": "Things to do in Pune - Weekend of May 17th, May 18th. Hello hello! Lots of heritage walks and screenings this weekend. The weather is not exactly weathering as per the month; make the most of it and explore our city. \n\n*Exclusive group for all interesting Pune events and the weekly compilations (and some offers too!)* - https://bit.ly/4h5EFQW\n\n*This is a non commercial post, all events are directly linked. Pic - Houses of Konkan; this one is from Guhagar*\n\n17th May to 24th May : *Celebrating Crop Diversity - contemporary botanical art exhibition that showcases India's most diverse crop plants*. 10AM, RRBCEA - Empress Garden, free (some workshops are paid). Details & schedule - https://bit.ly/3ZmpT1t. Regn - Email baww2025.ibas@gmail.com \n\n17th May : *Pagdandi Book Club - 11th Edition, Heart Lamp by Banu Mushtaq*. 11:30AM, Pagdandi Bookstore & Coffee, free entry. Details - https://bit.ly/4mcHra5\n\n17th May : *Pune Hush House Harriers Run #176 at SRPF Grounds - Wanowrie (the drinking club with a running problem)*. 4PM, 100. Details - https://bit.ly/ph3wagrp\n\n17th May : *Book Lover Meetup w/ Pune Book Lovers*. 4PM, Waari Book Cafe - Kothrud, free entry (pay for what you order). Details - https://bit.ly/4dojokC\n\n17th May : *Screening - Ardhsatya (1983), dir - Govind Nihalani *. 6PM, NFAI - Law College Rd, free (FCFS). Details - https://bit.ly/3FaOMX8\n\n17th May : *Screening - Porcelain War (2024), dir - Brendan Bellomo, Slava Leontyev, lang - Ukrainian, Russian (with Eng subs)*. 6PM, Watermark Film Club - Kothrud, 300. Regn - ONLY WhatsApp 9422016044\n\n18th May : *Special Tree Walk - Botanical Art Worldwide 2025 Exhibition*. 7AM, RRBCEA - Empress Garden, 50. Contact - 9923306903. Regn - https://bit.ly/3GXfGSX\n\n18th May : *Shivajinagar Heritage Walk w/ Bhramankosh*. 7:30AM, JM Temple - JM Road, 500. Regn - 7769869185\n\n18th May : *Revolution Heritage Walk w/ Pune Heritage Walks*. 8:45AM, Raje Umaji Naik Smarak - Shukrawar Peth, 300. Regn - https://bit.ly/3F5l99I\n\n18th May : *Museum Heritage Walk w/ Ayan Heritage Walks*. 10AM, Raja Dinkar Kelkar Museum - Shukrawar Peth, 300. Regn - 9503759415\n\n18th May : *Pilferage - A Initiative for Patronage of Poetry w/ Baithak and beyond*. 4:30PM, Fortuna Apartments - Bavdhan, 200. Regn - https://bit.ly/43dAcWM\n\n18th May : *Taar Meetup w/ The Montage Collective*. 5PM, Kamla Nehru Park - Deccan Gymkhana, free (get your collection of postcards, journals, old letters that are significant to you)\n\n18th May : *Filmo ki Raah - Screening of Volver (Spanish with Eng subs), dir - Pedro AImod\u00f3var*. 6PM, Raah Cultural Centre - Lullanagar, 150. Details - https://bit.ly/3FiQO7v\n\n*Later*\n19th May to 21st May : *Pints of Science - global science festival - researchers share and discuss their findings*. 6PM, Doolally KOPA Mall KP + The Orange Art & Book Cafe, 422. Regn - https://bit.ly/44DT6sq\n\n24th May : *Fireflies Observation and Star Gazing w/ Wonders of Universe*. 5PM, Gunjavane Village - Rajgad Fort Base, 2000 (excl transport). Regn - 8788526039  \n\n25th May : *Global Photowalk Event - Pune w/ BlaBla Language Exchange*. 2PM, Kasba Peth, free. Details - https://bit.ly/3SpbKN8                                        \n\n25th May : *Nibhrita Praner Gaan - interactive cinematic experience using curated films clips based on Tagore's stories*. 5:30PM, Innishari Studio - Pimple Nilakh, 300. Tickets - https://bit.ly/3EWa8Yh\n\n*Recurring*\nSaturdays : \n- *East Pune Reads*, free. https://bit.ly/3SVJNfN\n\nSundays : \n- *Pune Old City Heritage Walks*, 625. https://bit.ly/3IimOXn\n- *Plogging w/ Pune Ploggers*, free. https://bit.ly/4bPabk2\n\n*F&B News*\n- All Stars Tap Takeover at Doolally Taproom KOPA Mall, from 16th May to 18th May. Craft beers pouring from 25 breweries across Maharashtra, starts at Rs. 250/pint. Details - https://bit.ly/4jaqlHl\n\nCome across something interesting? Share with us! We focus on events around travel, food, heritage & history.\n\nPlease follow our WA channel - http://bit.ly/watcchannel for events across India. Do share with your friends too! \n\nAll our links on - https://linktr.ee/wearethechompions\n\nCheers!",
+        "hashtags": [
+            "#176"
+        ],
+        "mentions": [
+            "@gmail"
+        ],
+        "emojis": [],
+        "location": {
+            "profile_location": null,
+            "geo_location": null,
+            "nlp_location": "Pune, India",
+            "final_location": "Pune, India",
+            "tier": "Tier-1",
+            "country": "India",
+            "state": "Maharashtra",
+            "city": "Pune"
+        },
+        "sentiment": {
+            "label": "neutral",
+            "score": 0.0
+        },
+        "keywords": [
+            "things",
+            "pune",
+            "weekend",
+            "hello",
+            "lots",
+            "heritage"
+        ],
+        "aspects": [
+            {
+                "aspect": "infotainment",
+                "sentiment": "neutral",
+                "score": 0.0
+            }
+        ],
+        "intent": "query",
+        "embedding": null,
+        "embedding_model": null,
+        "processed_at": "2025-10-03T17:04:06.622494Z",
+        "source_id": "reddit:fe3d58897537"
+    },
+    {
+        "platform": "reddit",
+        "username": "inzo07",
+        "timestamp": "2020-10-31T05:07:50Z",
+        "vehicle_model": "Tata Harrier",
+        "competitor_models": [
+            "Tata Safari",
+            "Mahindra XUV700",
+            "Hyundai Creta",
+            "Kia Seltos"
+        ],
+        "content": "Hello Pune.. can any one recommend a good reliable center for doing ceramic coating. Buying a new harrier.. Hello Pune.. can any one recommend a good reliable center for doing ceramic coating. Buying a new harrier.",
+        "hashtags": [],
+        "mentions": [],
+        "emojis": [],
+        "location": {
+            "profile_location": null,
+            "geo_location": null,
+            "nlp_location": "Pune, India",
+            "final_location": "Pune, India",
+            "tier": "Tier-1",
+            "country": "India",
+            "state": "Maharashtra",
+            "city": "Pune"
+        },
+        "sentiment": {
+            "label": "positive",
+            "score": 0.43
+        },
+        "keywords": [
+            "hello",
+            "pune",
+            "any",
+            "one",
+            "recommend",
+            "good"
+        ],
+        "aspects": [],
+        "intent": "praise",
+        "embedding": null,
+        "embedding_model": null,
+        "processed_at": "2025-10-03T17:04:06.622621Z",
+        "source_id": "reddit:45f34a6c8882"
+    },
+    {
+        "platform": "reddit",
+        "username": "wearethechompions",
+        "timestamp": "2025-09-12T04:42:38Z",
+        "vehicle_model": "Tata Harrier",
+        "competitor_models": [
+            "Tata Safari",
+            "Mahindra XUV700",
+            "Hyundai Creta",
+            "Kia Seltos"
+        ],
+        "content": "Things to do in Pune - Weekend of Sep 13th, Sep 14th. Hello hello! Fabulous lineup of events this week! From heritage & food walks, screenings, qawwali and classical music performances, AI and boardgames meetup, PH3 monthly run, plays and performances - something for everyone. \n\n*Exclusive group for all interesting Pune events, together with the weekly compilations (and some offers too!)* - https://chat.whatsapp.com/BgNBknCGmpeBY791cRZxdw\n\n*This is a non commercial post, all events are directly linked. Pic - heritage building near Vasant Cinepro with an intact frieze (middle section), featuring ornate carvings, including a central circular motif that houses a clock*\n\n12th Sep : *Laugh Out Loud w/ Orange Comedy Club*. 8:30PM, Malaka Spice - Kharadi, 599 (fully redeemable cover). Regn - https://go.swipez.in/cLcc\n\n13th Sep : *Tambat Aali Heritage Walk w/ Pune Heritage Walks*. 9AM, Shaniwar Wada, 350. Regn - https://allevents.in/pune/tambat-aali-heritage-walk-pune-by-phw-tickets/80002893623141\n\n13th Sep : *Bharat Pitchathon 4.0 - Unearthing Startups from Bharat w/ Headstart Pune*. 10AM, COEP BHAU Institute - Shivajinagar, only for startups (check for pitch criteria). Regn - https://www.headstart.in/bharat-pitchathon\n\n13th Sep : *Pie & AI - Content Generation with Open Source Models*. 11AM, Cafe Buddy's Espresso - Baner, free to join (bring laptop for hands on). Regn - https://www.eventbrite.com/e/1657864269659?aff=oddtdtcreator\n\n13th Sat : *Chess Meetups - multiple meetups across the city w/ Pune Chess Hangouts*. 11AM, multiple venues, free to participate. Details (final schedule will be shared on Friday) - https://www.instagram.com/stories/punechesshangouts/3719114622012366274?\n\n13th Sep : *Build & Ship Your AI Projects*. 12PM, Aeka's Coffee - Baner, free to join (bring laptop for hands on). Regn - https://luma.com/hez4zrjf\n\n13th Sep : *Singar Ko Rehne Do w/ Mohor Community*. 5:30PM, Pune School of Music - Balewadi, 300. Tickets - 8237710920. Details - \nhttps://www.instagram.com/reel/DON2tmtivWa/\n\n13th Sep : *Filter Coffee Brewing Workshop*. 6PM, Trelish Coffee - Paud Road, 150 (incl all materials). Regn - https://trelish.in/products/filter-coffee-workshop-september-2025\n\n13th Sep : *Screening - Black Box Diaries (2024), dir - Shiori It\u00f4, lang - English, Japanese (with Eng subtitles)*. 6PM, Watermark Film Club - Kothrud, 300. RSVP - WhatsApp ONLY 9422016044\n\n13th Sep : *Qawwali Evening w/ Aanchal Shrivastava*. 7PM, Monalisa Kalagram - KP, 1199. Tickets - https://www.aanchalshrivastava.com/event-details/yatra-with-aanchal-pune-1\n\n14th Sep : *Pune Sunrise Photowalk w/ Arsilio*. 5:40AM sharp, Mandai Metro Station, free to join (10 spots only, bring camera/phone). Details & regn - https://www.instagram.com/p/DOd4bYREqFv/\n\n14th Sep : *Web of Wonders - step into the secret lives of spiders w/ Green Panther Club*. 7:30AM, Pashan Hills - Pashan, 999. Regn - https://tickets2025.thegreenerside.echoesofearth.com/\n\n14th Sep : *Camp Heritage Walk w/ The Western Routes*. 8AM, Camp, 600 (incl snacks & chai enroute). Regn - https://myair.link/the-western-routes/camp-heritage-walk\n\n14th Sep : *\u0916\u093e\u0926\u094d\u092f \u092d\u094d\u0930\u092e\u0902\u0924\u0940 - From Misal to Mastani w/ Pune with KV*. 9AM, Mandai Metro Station, 849. Regn - 9175109989. Details - https://www.instagram.com/p/DOZVFD7jhFF/\n\n14th Jun : *Pune Hush House Harriers Run #178 at Keshav Nagar (the drinking club with a running problem)*. 9:30AM, 100. Details - https://chat.whatsapp.com/Fa7O3jvXUKd1nJEtMUVl4z\n\n14th Sep : *Screening - Frame & Flow, Step into the World Of Gret Palucca w/ Deutsch Activ Culture Club x Hrishikesh Centre of Contemporary Dance*. 4PM, Hippie@Heart - Bhandarkar Road, 99 (fully redeemable on bill). Regn - https://rzp.io/rzp/M6dEPUy\n\n14th Sep : *Fat Lab \u0905\u0921\u094d\u0921\u093e - Plants of Pune w/ Supriya Mahabaleshwarkar*. 4:30PM, The Fat Labrador Cafe - Bavdhan, free to join (FCFS). Details -  https://www.instagram.com/p/DOdaczziFa9/\n\n14th Sep : *Baithak - Open Poetry Gathering w/ Baithak and beyond*. 4:30PM, Coffee Nation - Kalyani Nagar, 100. Regn - https://allevents.in/pune/baithak-open-poetry-gathering-tickets/80003295101475\n\n14th Sep : *Play - Excess Estrogen, a collection of short pieces about the chaos and complexities of modern womanhood. Show is for women _only_*. 5PM, Shreeram Lagoo Rang-Avkash - near Swargate, 300. Tickets - https://www.ticketkhidakee.com/explore/all/mcc/excessestrogenladiesonly/68a2f8bef7f87afc75f6afd7\n\n14th Sep : *Indian Adaptation of Saki (H H Munro) Stories w/ Katha Khoj*. 6PM, Vibrant Learning Spaces - Baner, 300. Regn and details - https://www.instagram.com/p/DOTeizkDPR8/\n\n*Recurring*\nSaturdays : \n- *East Pune Reads*, free. https://www.instagram.com/reel/C2wdhZfhXT_/\n- *Saturday Writing w/ Pune Writers' Group*, free. https://facebook.com/events/s/saturday-writing/1280930013158151/\n\nSundays :\n- All Sep - *Nature Discovery Walks w/ Ecological Society*. 7AM, multiple venues, 150. Details - https://www.theecologicalsociety.org/youth-initiative\n- *Pune Old City Heritage Walks*, 625. https://myair.link/the-western-routes/pune-heritage-walk \n- *Plogging w/ Pune Ploggers*, https://www.facebook.com/puneploggers\n\n*F&B News*\n- UndergroundSaladBar in Aundh launches soon. Meet them at Aundh Happy Street on 12th Sep  https://docs.google.com/forms/d/e/1FAIpQLSeTSxBN9QEa5qCmAGApRAbgCgPMgovRjvxEIdE-hSHj6XZ1og/viewform?\n\nCome across something interesting? Share with us! We focus on events around travel, food, heritage & history. \n\nAll our links on our bio\n\nCheers! \ud83c\udf7b",
+        "hashtags": [
+            "#178"
+        ],
+        "mentions": [
+            "@Heart"
+        ],
+        "emojis": [
+            "\ud83c\udf7b"
+        ],
+        "location": {
+            "profile_location": null,
+            "geo_location": null,
+            "nlp_location": "Pune, India",
+            "final_location": "Pune, India",
+            "tier": "Tier-1",
+            "country": "India",
+            "state": "Maharashtra",
+            "city": "Pune"
+        },
+        "sentiment": {
+            "label": "positive",
+            "score": 0.43
+        },
+        "keywords": [
+            "things",
+            "pune",
+            "weekend",
+            "sep",
+            "hello",
+            "fabulous"
+        ],
+        "aspects": [
+            {
+                "aspect": "performance",
+                "sentiment": "positive",
+                "score": 0.43
+            },
+            {
+                "aspect": "comfort",
+                "sentiment": "positive",
+                "score": 0.43
+            },
+            {
+                "aspect": "infotainment",
+                "sentiment": "positive",
+                "score": 0.43
+            }
+        ],
+        "intent": "query",
+        "embedding": null,
+        "embedding_model": null,
+        "processed_at": "2025-10-03T17:04:06.624535Z",
+        "source_id": "reddit:5d41f2840d57"
+    },
+    {
+        "platform": "reddit",
+        "username": "wearethechompions",
+        "timestamp": "2025-07-04T07:54:55Z",
+        "vehicle_model": "Tata Harrier",
+        "competitor_models": [
+            "Tata Safari",
+            "Mahindra XUV700",
+            "Hyundai Creta",
+            "Kia Seltos"
+        ],
+        "content": "Things to do in Pune - Weekend of Jul 05th, Jul 06th. Hello hello! Wide variety of events lined up this weekend. Lookout for the new addition to the recurring section. \n\n*Exclusive group for all interesting Pune events and the weekly compilations (and some offers too!)* - https://chat.whatsapp.com/BgNBknCGmpeBY791cRZxdw\n\n*This is a non commercial post, all events are directly linked. Pic - Jolly Villa on Bund Garden Road, built in 1954. Beautifully designed* \n\n04th Jul : *Films Division Fridays - screening of 3 movies followed by QnA with filmmaker Avijit Mukul Kishore*. 6PM, NFAI - Law College Road, free (FCFS). Details - https://www.instagram.com/p/DLjs8JGpIOP/\n\n04th Jul : *Geet Ramayan Bharatnatyam Nritanubhav - dance drama*. 6:15PM, MES Auditorium - Shivajinagar, 250. Details - https://facebook.com/events/s/geet-ramayan-bharatanatyam-nru/710558661931236/\n\n05th Jul : *A Day of Rice Plantation w/ Bhramankosh*. 7.30am, Darumbare Village, Taluka Maval, 1800 (incl transport & lunch, tea). Regn - 7769869185\n\n05th Jul : *Pune Hush House Harriers 175th Run Milestone Celebrations with overnight stay, F&B, goodie bag, transport*. 9AM, The Yellow Retreat - Wai, 4999. Details - https://chat.whatsapp.com/Fa7O3jvXUKd1nJEtMUVl4z\n\n05th Jul : *Parvati Hill Art Walk w/ Pune Photo Walks*. 9AM, Parvati Hills, 350. Regn - https://allevents.in/pune/parvati-hill-art-walk-by-paw-x-phw-tickets/80002637880848\n\n05th Jul : *Drupal Pune Meetup*. 10AM, miniOrange - Baner, free to participate. Regn - https://meetu.ps/e/Pbrth/1dpHvG/i\n\n05th Jul : *Factory Tour + Combo Workshop (paper making, marbling) w/ Pune Handmade Papers*. 11AM, Shivajinagar, 900. Regn - 9960451770. Details - https://www.instagram.com/p/DLkbzhOoYZr/\n\n05th Jul : *Explore the Fascinating World of Fungi w/ Dr. Kiran Randive*. 2PM, Jidnyasa Learning Centre - Kothrud, 1200. Regn - https://forms.gle/hg98AuV3JbJAaUnd8. Regn & addnl events - https://openwellbeing.org/projects/swayam-open-learning/world-of-fungi/fungi-workshop/\n\n05th Jul : *Tales & Twists - Ghost Stories*. 4:30PM, Raah Cultural Centre - Lullanagar, free entry. Details - https://www.instagram.com/p/DLkCIuqIsOG/\n\n05th Jul : *Citizen Science Expo \u2013 The Power of People in Science w/ Pune Knowledge Cluster*. 5PM, Multipurpose Hall - IISER Guest House, free entry. Regn - https://forms.gle/gYvjHzfVj4F88S1Z6\n\n05th Jul : *Screening - One of Those Days When Hemme Dies (2024), dir - Murat Firatoglu, lang - Turkish (with Eng subtitles)*. 6PM, Watermark Film Club - Kothrud, 300. Regn - WhatsApp ONLY 9422016044\n\n05th Jul : *Insectales - Moths, the nocturnal marvels w/ Mitrakida*. 6PM, Sevasadan English Medium School - Erandwane, free. Details - https://www.instagram.com/p/DLpT2JussHa/\n\n05th Jul : *Philosophy - Alchemy, The Art of Transformation*. 6PM, New Acropolis Pune - KP, 200. Regn - https://allevents.in/pune/alchemy-the-art-of-transformation-tickets/80002898358471\n\n06th Jul : *Sadashiv Peth Khadadi Walk w/ The Western Routes*. 8:30AM, SP College Main Gate - Sadashiv Peth, 900 (incl unltd food at all stops). Regn - https://myair.link/the-western-routes/sadashiv-peth-khadadi-walk\n\n06th Jul : *Pune Camp Heritage Walk w/ Pune Heritage Walks*. 9AM, Hotel Ritz - Camp, 300. https://allevents.in/pune/pune-camp-heritage-walk-by-phw-tickets/80002668767766\n\n06th Jul : *photoSTORYwalk w/ The Montage-Art Collective*. 3PM, 100, Camp. Regn - https://forms.gle/i5Y7BiEyALJMTfpA6\n\n*Later*\n13th Jul : *Books Maska - Dystopian and Post-Apocalyptic Fiction w/ The Saturday Book Community*. 3PM, The Orange Book and Art Cafe - Aundh, 175. Regn - https://www.instagram.com/p/DLedxpXobpj/\n\n19th Jul & 20th Jul : *Open House - browse & purchase from their collection w/ curatorsofclay*. 10AM to 6PM. Curators of Clay - Bhugaon, free entry.\n\n20th July : *Alive - a Darpan 2025 award-winning Marathi play*. 5PM & 7:30PM, Shreeram Lagoo Rang-Avkash - Swargate, 400. Tickets - https://in.bookmyshow.com/plays/alive/ET00451649\n\n*Recurring*\nSaturdays : \n- *East Pune Reads*, free. https://www.instagram.com/reel/C2wdhZfhXT_/\n- *Saturday Writing w/ Pune Writers' Group*, free. https://facebook.com/events/s/saturday-writing/1266571725041452/\n\nSundays :\n- All July - *Nature Discovery Walks w/ Ecological Society*. 7AM, multiple venues, 150. Details - https://www.theecologicalsociety.org/youth-initiative\n- *Pune Old City Heritage Walks*, 625. https://myair.link/the-western-routes/pune-heritage-walk \n- *Plogging w/ Pune Ploggers*, https://www.facebook.com/puneploggers\n\n*F&B News*\n- Krua Punpun in Koregaon Park promises a trip to Thailand with their extensive menu. Could they be the rebranded Nanu Thai (we terribly miss their Boba Tea!)? \n\nCome across something interesting? Share with us! We focus on events around travel, food, heritage & history. \n\nAll our links on our bio! \n\nCheers! \ud83c\udf7b",
+        "hashtags": [],
+        "mentions": [],
+        "emojis": [
+            "\ud83c\udf7b"
+        ],
+        "location": {
+            "profile_location": null,
+            "geo_location": null,
+            "nlp_location": "Pune, India",
+            "final_location": "Pune, India",
+            "tier": "Tier-1",
+            "country": "India",
+            "state": "Maharashtra",
+            "city": "Pune"
+        },
+        "sentiment": {
+            "label": "neutral",
+            "score": 0.0
+        },
+        "keywords": [
+            "things",
+            "pune",
+            "weekend",
+            "jul",
+            "hello",
+            "wide"
+        ],
+        "aspects": [
+            {
+                "aspect": "performance",
+                "sentiment": "neutral",
+                "score": 0.0
+            },
+            {
+                "aspect": "infotainment",
+                "sentiment": "neutral",
+                "score": 0.0
+            },
+            {
+                "aspect": "design",
+                "sentiment": "neutral",
+                "score": 0.0
+            }
+        ],
+        "intent": "query",
+        "embedding": null,
+        "embedding_model": null,
+        "processed_at": "2025-10-03T17:04:06.628399Z",
+        "source_id": "reddit:542a8da88dac"
+    },
+    {
+        "platform": "reddit",
+        "username": "wearethechompions",
+        "timestamp": "2024-12-27T14:55:45Z",
+        "vehicle_model": "Tata Harrier",
+        "competitor_models": [
+            "Tata Safari",
+            "Mahindra XUV700",
+            "Hyundai Creta",
+            "Kia Seltos"
+        ],
+        "content": "Things To Do - Weekend of Dec 28th, Dec 29th. Hello hello! Wishing everyone a Happy New Year in advance, since this is the last list of this year. Hope you've liked the curation this far. Suggestions, always welcome!\n\n(Pic - Pune 0 Milestone, near the GPO. This was restored as early as 2017, largely due to crowdsourcing efforts. Let's hope the authorities are keener and interested in preserving our beloved city's heritage in the near future)\n\n24th Dec to 28th Dec : #KnowPune Heritage Walk Series - Shaniwar Wada, Sadashiv Peth, Kasba, Heritage Mile w/ Sandeep Godbole. 7:30AM, 300. Regn mandatory - DM on Twitter https://bit.ly/3VomqgW\n\n28th Dec : Astronomy Divine - Telescopic Star Gazing + Camping w/ Rivers and Ridges. 4PM, Chandavane Village - Bhor, 2100 (excl transport). Details - https://bit.ly/4fzkw4s\n\n28th Dec : Pune Camp Photo Walk w/ Pune Heritage Walks. 9AM, Hotel Ritz - Camp, 200. Regn - https://bit.ly/4fDpNIf\n\n28th Dec : Artists' Picnic w/ Manngadhant. 4PM, Kamla Nehru Park, 200. Regn - DM https://bit.ly/4fz4RC6\n\n29th Dec : Nadikathche Pune - Riverside Pune Walk w/ Intach Pune Chapter. 8AM, Shaniwar Wada, 300. Regn - 8459426907\n\n29th Dec : Pune Camp Food Walk w/ Pune Heritage Walks. 10AM, JJ Garden, 200 (excl food tastings). Regn - https://bit.ly/49Wpze7\n\n28th Dec : Kalaadhyay Indian Classical Music Fest. 5PM, The Stage Studio - Baner, 199. Tickets - https://bit.ly/4fzxvTt\n\n29th : Wedi Wakdi Fight - Marathi Stand Up w/ Bharatiya Digital Party. 7PM, Bougainvillea Farms - Karve Nagar, 299 onwards. Tickets - https://bit.ly/4gsSXLe\n\nLater\n05th Jan : TCP (The Calcutta Porkaddicts) #TCPPuneChapter's brings in the new year with #RamenRavivar25 - curated Japanese New Year Celebrations meal. 12PM, Ginkgo - Kothrud, 1550. Menu & details - https://bit.ly/4gLXYip\n\n12th Jan : Pune House Harriers Run #171 - Bhigwan Special - drinking club with a running problem. 6AM. Details - https://bit.ly/ph3wagrp\n\nOngoing\n29th Dec to 02nd Jan : Trance-Act - Exhibition of Contemporary Art & Performances w/ Raju Sutar. 10AM to 2PM & 4:30PM to 9PM, The Box - Erandwane. Details - https://bit.ly/49X5wff\n\nRecurring\nSaturdays : \n- East Pune Reads, free. https://bit.ly/3SVJNfN\n\nSundays : \n- Pune Old City Heritage Walks / The Western Routes, 625. https://bit.ly/3IimOXn\n- Plogging w/ Pune Ploggers, free. https://bit.ly/4bPabk2\n \nFor interesting events across India, please follow our WA channel - http://bit.ly/watcchannel\n\nDo share with your friends in other cities \ud83d\ude00\n\nAll our links on - https://linktr.ee/wearethechompions",
+        "hashtags": [
+            "#RamenRavivar25",
+            "#TCPPuneChapter",
+            "#KnowPune",
+            "#171"
+        ],
+        "mentions": [],
+        "emojis": [
+            "\ud83d\ude00"
+        ],
+        "location": {
+            "profile_location": null,
+            "geo_location": null,
+            "nlp_location": "Pune, India",
+            "final_location": "Pune, India",
+            "tier": "Tier-1",
+            "country": "India",
+            "state": "Maharashtra",
+            "city": "Pune"
+        },
+        "sentiment": {
+            "label": "positive",
+            "score": 0.43
+        },
+        "keywords": [
+            "things",
+            "weekend",
+            "dec",
+            "hello",
+            "wishing",
+            "everyone"
+        ],
+        "aspects": [
+            {
+                "aspect": "performance",
+                "sentiment": "positive",
+                "score": 0.43
+            },
+            {
+                "aspect": "infotainment",
+                "sentiment": "positive",
+                "score": 0.43
+            }
+        ],
+        "intent": "praise",
+        "embedding": null,
+        "embedding_model": null,
+        "processed_at": "2025-10-03T17:04:06.630884Z",
+        "source_id": "reddit:042c53683c89"
+    },
+    {
+        "platform": "reddit",
+        "username": "wearethechompions",
+        "timestamp": "2025-01-30T16:43:29Z",
+        "vehicle_model": "Tata Harrier",
+        "competitor_models": [
+            "Tata Safari",
+            "Mahindra XUV700",
+            "Hyundai Creta",
+            "Kia Seltos"
+        ],
+        "content": "Things To Do In Pune - Weekend of Feb 01st, Feb 02nd. Hello hello! The coming weekend has film screening, art & quiz festivals, heritage walks and trips! Make the most of it. 02nd Feb is also the Bengali Valentine's Day, also the day Goddess Saraswati is worshipped. \n\n*This is a non commercial post, all events are directly linked. Pic - Star Of China on Taboot Street, Camp*\n\n31st Jan : *Screening  - Adieu les Cons (Bye\nBye Morons) w/ afpune. 6PM, Alliance Francaise de Pune - Gokhalenagar, free (FCFS). Details - https://www.instagram.com/p/DFMxjbYPzqf/\n\n31st Jan : *Rasik Rajni - Shaam e Bashar - evening of ghazals, shayari & qawwali*. 8PM, Koregaon Park, 499. Tickets - https://in.bookmyshow.com/events/rasik-rajni-shaam-e-bashar/ET00429794\n\n1st Feb & 2nd Feb : *Pune Kabir Festival 2025 w/ Baithak Foundation*. 8AM, multiple venues, free. Details - https://baithak.org/pune-kabir-festival-2025/ \n\n01st Feb & 02nd Feb : *InFestYouUs 2025 - BCQC's flagship quizzing event*. 9AM, Max Mueller Bhavan Pune, free entry (audience/mob). Details -  https://www.facebook.com/share/p/1BVQu6YUL9/\n\n01st Feb & 02nd Feb : *Awrt Festival - Pune's first art festival in the basti*. 11AM, Indira Nagar - Airport Road. Details & schedule - https://www.instagram.com/p/DFU3YjguZ4K/\n\n01st Feb : *Pune Hush House Harriers Run #172 - Bhigwan Flamingo Special - drinking club with a running problem*. 6:30AM. Details - https://facebook.com/events/s/ph3-run-172-bhigwan-flamingo-w/645111621386363/\n\n01st Feb : *Karle Bhaje Caves Heritage Day Trip w/ Indigo Roots*. 6:30AM, Samudra Hotel - Kothrud, 2500 (incl transport, meals, entry fees). Sign up - https://docs.google.com/forms/d/1yskm-_YI4j1AL0kER9aNTl7okHbrcblt7NyqHCLdt_A/edit?usp=drivesdk\n\n01st Feb : *Shaniwar Wada Heritage Walk w/ Pune Heritage Walks*. 9AM, Shaniwar Wada, 400. Tickets - https://allevents.in/pune/shaniwar-wada-heritage-walk-by-phw/80006943998088\n\n01st Feb : *Pixel to Stitch w/ Topsy Turvi*. 4PM, Kamla Nehru Park, 400. Regn - https://netpal.app/e/KZoCMFDv\n\n01st Feb : *Insectales - Pest Logic - Why Bugs Love Your Garden w/ Mitrakida*. 6PM, Sevasadan English Medium School, free. Details - https://www.instagram.com/p/DFKQoOGTk7z/\n\n02nd Feb : *Wai & Menawali Heritage Day Trip w/ Pune Heritage Walks*. 6AM, pickup from Shivajinagar, 2200. Tickets - https://allevents.in/pune/wai-and-menawali-heritage-day-trip-from-pune/80002381953508\n\n02nd Feb : *Wordcamp Pune 2025 - official WordPress conference*. 9AM, MCCIA - SB Road, 500. Tickets - https://pune.wordcamp.org/2025/\n\n02nd Feb : *Interactive presentation on Jazz Drums w/ Pune Jazz and Blues Club*. 12PM, Shisha Jazz Cafe - The Mills, free entry. Details - https://www.instagram.com/p/DFKyV1-iDNK/\n\n*Later*\n09th Feb : *Malaka Spice Annual Wine Fest 2025*. 12PM, Malaka Spice - KP, 1599. Tickets - https://go.swipez.in/chtw. (group bookings - https://go.swipez.in/chtC)\n\n13th Feb to 20th Feb : *23rd Pune International Film Festival*. Multiple timings and venues, 800. Passes - https://www.piffindia.com/delegate-registration-form.php\n\n*Ongoing*\n30th Jan to 03rd Feb : *Virasat Karigar Haat - craft & textile bazaar by award winning craftsmen*. 11AM, Monalisa Kalagram - KP, free entry. Details - https://www.instagram.com/p/DFbysqqoGjn/",
+        "hashtags": [
+            "#172"
+        ],
+        "mentions": [],
+        "emojis": [],
+        "location": {
+            "profile_location": null,
+            "geo_location": null,
+            "nlp_location": "Pune, India",
+            "final_location": "Pune, India",
+            "tier": "Tier-1",
+            "country": "India",
+            "state": "Maharashtra",
+            "city": "Pune"
+        },
+        "sentiment": {
+            "label": "positive",
+            "score": 0.43
+        },
+        "keywords": [
+            "things",
+            "pune",
+            "weekend",
+            "feb",
+            "hello",
+            "coming"
+        ],
+        "aspects": [
+            {
+                "aspect": "performance",
+                "sentiment": "positive",
+                "score": 0.43
+            },
+            {
+                "aspect": "infotainment",
+                "sentiment": "positive",
+                "score": 0.43
+            }
+        ],
+        "intent": "complaint",
+        "embedding": null,
+        "embedding_model": null,
+        "processed_at": "2025-10-03T17:04:06.631797Z",
+        "source_id": "reddit:b26283ecd6c8"
+    },
+    {
+        "platform": "reddit",
+        "username": "wearethechompions",
+        "timestamp": "2025-01-17T15:58:06Z",
+        "vehicle_model": "Tata Harrier",
+        "competitor_models": [
+            "Tata Safari",
+            "Mahindra XUV700",
+            "Hyundai Creta",
+            "Kia Seltos"
+        ],
+        "content": "Pune - Things To Do - Weekend of Dec 18th, Dec 19th. Hello hello! Wishing everyone participating in TMM 25 on 19th Jan, this Sunday - the very best. \n\nThis is a non commercial post, all events are directly linked. Pic - Cawasjee Dinshaw Hall & Library on East Street, Camp. Estd in 1875, it was initially known as Albert Edward Institute\n\n17th Jan to 19th Jan : *Vasantotsav 2025 - classical music festival*. 5:30PM, Suryakant Kakade Farms - Kothrud, 1500 onwards. Tickets - https://in.bookmyshow.com/events/vasantotsav/ET00421749 (replace 17 with 07 for the correct URL else wasn't able to post)\n\n18th Jan : *Bird Walk w/ RRBCEA*. 7:30AM, Empress Garden, 50. Regn - https://forms.gle/ZedLa3N9hscmU63XA. Contact: 9923306903\n\n18th Jan & 19th Jan : *Art Walk - Pune Camp & Somwar Peth w/ Pune Art Walks*. 9AM, different venues, 250. Regn - https://docs.google.com/forms/d/19UnyspYVp8MGYferPaRvFDcGMv3E2jhTB90_-v_tSzE\n\n18th Jan : *The Big Green Fest w/ The Pune Climate Warrior*. 10AM, Pt. J N Auditorium - Ghole Rd, free entry. Details - https://facebook.com/events/s/the-big-green-fest/587671427206544\n\n18th Jan : *Raja Dinkar Kelkar Museum Walk - When Objects Speak w/ Sambhasa Foundation*. 10AM & 3PM, RDK Museum, 500. Contact - 9307911559. Details - https://www.instagram.com/p/DEbx_j7NPIL/\n\n18th Jan & 19th Jan : *8th International Pen Festival *. 10AM, Siddhi Gardens - Erandwane, free entry. Details - https://facebook.com/events/s/8th-international-pen-festival/1337758527605054/\n\n18th Jan : *Stargazing & Camping w/ AXSX_Astronomy*. 4PM, Velhe, 2990 (room stay, excl transport). Regn - https://axsx.in/stargazing-in-pune-18-january-2025/\n\n19th Jan : *Wadas of Pune - A Glimpse w/ Ayan Heritage Walks*. 8AM, Shaniwar Wada, 300. Regn - 9503759425 / 9881736175\n\n19th Jan : *Play - Guy In The Yellow Sweater w/ Violet Ensemble*. 6PM, Raah Cultural Centre - Lullanagar, 350 \nTickets - https://in.bookmyshow.com/plays/guy-in-the-yellow-sweater/ET00409343\n\n*Later*\n24th Jan to 27th Jan : *Empress Garden Annual Flower Show*. 10AM, Empress Garden, 50. Details - https://www.freepressjournal.in/amp/pune/pune-empress-garden-flower-show-2025-in-city-from-january-24-27\n\n25th Jan : *Parvati Heritage Walk w/ Anubhav Heritage Walks*. 4PM, Parvati Hill, 300. Regn - https://in.bookmyshow.com/activities/heritage-walk-parvati/ET00428734\n\n01st Feb : *Pune Hush House Harriers Run #172 - Bhigwan Flamingo Special - drinking club with a running problem*. 9:30AM. Details - https://chat.whatsapp.com/Fa7O3jvXUKd1nJEtMUVl4z\n\n1st Feb & 2nd Feb : *Pune Kabir Festival 2025 w/ Baithak Foundation*. 8AM, multiple venues, free. Details - https://baithak.org/pune-kabir-festival-2025/\n\n*Ongoing*\n05th Jan to 25th Jan : *Merging Clay: India and Celadon City Chronicles by Vinod Daroz*. 11AM, Monalisa Kalagram, Koregaon Park, free entry. Details - https://www.instagram.com/p/DEWTTtqTGEy/\n\nSee y'all next week!",
+        "hashtags": [
+            "#172"
+        ],
+        "mentions": [],
+        "emojis": [],
+        "location": {
+            "profile_location": null,
+            "geo_location": null,
+            "nlp_location": "Pune, India",
+            "final_location": "Pune, India",
+            "tier": "Tier-1",
+            "country": "India",
+            "state": "Maharashtra",
+            "city": "Pune"
+        },
+        "sentiment": {
+            "label": "neutral",
+            "score": 0.0
+        },
+        "keywords": [
+            "pune",
+            "things",
+            "weekend",
+            "dec",
+            "hello",
+            "wishing"
+        ],
+        "aspects": [
+            {
+                "aspect": "infotainment",
+                "sentiment": "neutral",
+                "score": 0.0
+            }
+        ],
+        "intent": "query",
+        "embedding": null,
+        "embedding_model": null,
+        "processed_at": "2025-10-03T17:04:06.632633Z",
+        "source_id": "reddit:4639c3241826"
+    },
+    {
+        "platform": "reddit",
+        "username": "wearethechompions",
+        "timestamp": "2025-01-23T04:42:43Z",
+        "vehicle_model": "Tata Harrier",
+        "competitor_models": [
+            "Tata Safari",
+            "Mahindra XUV700",
+            "Hyundai Creta",
+            "Kia Seltos"
+        ],
+        "content": "Pune - Things To Do - Weekend of Jan 25th, Jan 26th. Hello hello! While we may have not have a long weekend, the weekend's packed with interesting events - litfest, equestrian games, heritage & food walks, flower show, art festivals. Wishing everyone a Happy 76th Republic Day! \n\n*This is a non commercial post, all events are directly linked. Pic - Shaniwar Wada celebrated its 293rd Anniversary (sthapana divas) yesterday. It was completed on 22nd Jan, 1732, built by Peshwa Bajirao*\n\n22nd Jan to 26th Jan : *Saahitya Literary Fest*. 11AM, Elpro International School - Hinjewadi, free entry. Regn - https://saahityalitfest.com/\n\n23rd Jan to 26th Jan : *Annual Equestrian Games - 15th Edition*. 8AM onwards, Japalouppe - Talegaon, free spectator entry. Details - https://www.instagram.com/p/DDj3Yv2IiV_/\n\n23rd Jan to 26th Jan : *The Creative Lab Festival 2025 w/ Arisa Foundation*. 10AM, The Box - Erandwane. Schedule - https://www.instagram.com/p/DFHSrAoz-_h/. Tickets - https://in.bookmyshow.com/activities/the-creative-lab-festival-by-arisa-foundation/ET00423107\n\n24th Jan to 27th Jan : *Empress Garden Annual Flower Show*. 10AM, Empress Garden, 50. Details - https://bit.ly/40jtbCw\n\n25th Jan : *Heritage Walk at National War Memorial and Museum w/ Sambhasa Foundation*. 9AM, Ghorpadi, 500 (incl museum ticket, snacks). Regn - https://forms.gle/a4Px1ALNYdLnGwJN9\n\n25th Jan : *Pune Cantonment Food Walk w/ Intach Pune Chapter and Western Routes*. 9AM, JJ Garden, 1000 (incl food tastings). Regn - 8459426907\n\n25th Jan : *A Date With Books w/ theesamepage__*. 3PM, Godaam Specialty Coffee - FC Road, 200 (incl beverage). Regn - https://docs.google.com/forms/d/e/1FAIpQLSeJu94NYHr5KJ87OkXUNg6DxdY-hw1wMcHEgAMola9XZiVk9g/viewform\n\n25th Jan : *Art Circle - Warli Tote Painting*. 4PM, Saras Baug, 300. Regn - https://forms.gle/v4ZJWj887w1jfnVeA\n\n25th Jan : *Luv's Camp Food Walk*. 4PM, Shivaji Market - Camp, 800 (incl food). Regn - https://docs.google.com/forms/d/e/1FAIpQLSdHndyCAb66-aV1lk6uD_1bg7k5A2dstTb3NkVRIC7cFhHxjA/viewform\n\n25th Jan : *Parvati Heritage Walk w/ Anubhav Heritage Walks*. 4PM, Parvati Hill, 300. Regn - https://bit.ly/40mEFF3\n\n25th Jan : *Astronomy Divine - Parade of the Planets w/ Rivers and Ridges*. 4PM, Bhor, 2100 (excl transport). Contact - 7350064961. Details - https://facebook.com/events/s/astronomy-divine-telescopic-st/1459592328760398/\n\n25th Jan : *Reflecting on the Meaning of Life - The Socratic Way w/ New Acropolis*. 6PM, Koregaon Park, free. RSVP - https://www.eventbrite.com/e/reflecting-on-the-meaning-of-life-the-socratic-way-tickets-1124928303839\n\n25th Jan : *Kathakali - traditional dance drama performance by Adv. Rejini Suresh nd troupe w/ Spicmacay Pune*. 7PM, IISER - Aundh, free entry. Details - https://www.instagram.com/p/DFI2yHHMqvj/\n\n26th Jan : *Art Mandai 2025*. 9AM - 1PM, Mandai, free entry. Details - https://www.instagram.com/p/DEpEvzjz68c/\n\n26th Jan : *A Glimpse into the Past Heritage Tour w/ Bhramankosh*. 3:15PM, Shaniwar Wada, 450. Regn - 7769869185 \n\n*Later*\n01st Feb : *Pune Hush House Harriers Run #172 - Bhigwan Flamingo Special - drinking club with a running problem*. 9:30AM. Details - https://chat.whatsapp.com/Fa7O3jvXUKd1nJEtMUVl4z\n\n1st Feb & 2nd Feb : *Pune Kabir Festival 2025 w/ Baithak Foundation*. 8AM, multiple venues, free. Details - https://baithak.org/pune-kabir-festival-2025/\n\nCheers!",
+        "hashtags": [
+            "#172"
+        ],
+        "mentions": [],
+        "emojis": [],
+        "location": {
+            "profile_location": null,
+            "geo_location": null,
+            "nlp_location": "Pune, India",
+            "final_location": "Pune, India",
+            "tier": "Tier-1",
+            "country": "India",
+            "state": "Maharashtra",
+            "city": "Pune"
+        },
+        "sentiment": {
+            "label": "positive",
+            "score": 0.43
+        },
+        "keywords": [
+            "pune",
+            "things",
+            "weekend",
+            "jan",
+            "hello",
+            "while"
+        ],
+        "aspects": [
+            {
+                "aspect": "performance",
+                "sentiment": "positive",
+                "score": 0.43
+            }
+        ],
+        "intent": "query",
+        "embedding": null,
+        "embedding_model": null,
+        "processed_at": "2025-10-03T17:04:06.633577Z",
+        "source_id": "reddit:f3dbb6cb99ee"
+    },
+    {
+        "platform": "reddit",
+        "username": "wearethechompions",
+        "timestamp": "2025-02-07T04:32:38Z",
+        "vehicle_model": "Tata Harrier",
+        "competitor_models": [
+            "Tata Safari",
+            "Mahindra XUV700",
+            "Hyundai Creta",
+            "Kia Seltos"
+        ],
+        "content": "Things to do in Pune - Weekend of Feb 08th, Feb 09th. Hello hello! This weekend make a quick dash to Bhigwan before the season disappears. The weekend also has a great lineup of events. \n\nSpanking new group to share events that we might miss covering (no spam, promise) - https://bit.ly/4h5EFQW\n\n*This is a non commercial post, all events are directly linked. Pic - Hormasjee N Merchant Masonic Temple in Khadki, which is about 200 years old. The Freemasons are a worldwide fraternal order, who exist to improve their own characters and through that, their communities*\n\n07th Feb : *Play - Something Like Truth*. 5PM, The Box - Erandwane, 300 onwards. Tickets - https://bit.ly/3QclsRK\n\n08th Feb : *Vetal Tekdi Bird Walk w/ Ranjeet Rane*. 7AM, ARAI Main Gate, free participation. Regn - WA 742-007-1818\n\n08th Feb : *Royal Temples Heritage Walk w/ Pune Heritage Walks*. 9AM, Shaniwar Wada, 300. Tickets - https://bit.ly/4aRqbSx\n\n08th Feb : *Brews & Boardgames w/ Board Buddies India. 11AM & 4:30PM, Balewadi & Magarpatta, 399. Regn - 9731313116. Details - https://bit.ly/42MzX6l\n\n08th Feb : *Ehsaas - celebration of artistic expression and glimpse into Sufi mysticism*. 6PM, Bhandarkar Oriental Research Institute - Law College Rd, 500 onwards. Tickets - https://bit.ly/4grk2O1\n\n09th Feb : *Flamingo Spotting at Bhigwan w/ Pune Heritage Walks*. 6AM, pickup from Shivajinagar, 2200 (incl transport). Tickets - https://bit.ly/41fGyW5\n\n09th Feb : *Pickle Pals w/ HearAndHow*. 8AM, Pickleball One - Viman Nagar, 850 (incl snacks & refreshments). Regn - DM on Instagram https://bit.ly/3ECF8f4\n\n09th Feb : *Literature Club Meeting - Inherent Tendencies of Men & Women (as depicted in literature)*. 10:30AM, Empress Gardens, free to join. Details - https://bit.ly/42M6qd9\n\n09th Feb : *Malaka Spice Annual Wine Fest 2025*. 12PM, Malaka Spice - KP, 1599. Tickets -https://bit.ly/42zmHCf. (group bookings -https://bit.ly/4hx9b6a)\n\n09th Feb : *Potluck Picnic w/ Manngadhant*. 3:30PM, Kamla Nehru Park, 250. Regn - DM on Insta https://bit.ly/42GnBwI\n\n09th Feb : *Chipko March for Mula - Mutha River*. 3:30PM, Kalmadi High School - Baner, free to join. Details - https://bit.ly/4hQbMsd\n\n09th Feb : *Shaam E Ghazal w/ Baithak & Beyond*. 6PM, Raah Centre - Lullanagar, 200. Regn - https://bit.ly/3Estu6x\n\n09th Feb : *Play - Gulabbo - story from the Partition times*. 7PM, Sharda Kalamanch - Bavdhan. Tickets - 9823281236\n\n*Later*\n16th Feb : *Pune Hush House Harriers Run #173 - Kasba Heritage Walk - drinking club with a running problem*. 6:30AM. Details - https://bit.ly/ph3wagrp\n\n13th Feb to 20th Feb : *23rd Pune International Film Festival*. Multiple timings and venues, 800. Passes - https://bit.ly/4hE4tU7\n\n23rd Feb : *Pune Food Hunt - a food treasure hunt w/ The Western Routes*. 7:30AM, Shaniwar Wada, 1000 (team of 3-4). Regn - https://bit.ly/4hNr2Gk\n\n*Recurring*\nSaturdays : \n- *East Pune Reads*, free. https://bit.ly/3SVJNfN\n\nSundays : \n- *Pune Old City Heritage Walks*, 625. https://bit.ly/3IimOXn\n- *Plogging w/ Pune Ploggers*, free. https://bit.ly/4bPabk2\n\nCome across something interesting? Share with us! We focus on events around travel, food, heritage & history.\n\nPlease follow our WA channel - http://bit.ly/watcchannel for events across India. Do share with your friends too! \n\nAll our links on - https://linktr.ee/wearethechompions\n\nCheers!",
+        "hashtags": [
+            "#173"
+        ],
+        "mentions": [],
+        "emojis": [],
+        "location": {
+            "profile_location": null,
+            "geo_location": null,
+            "nlp_location": "Pune, India",
+            "final_location": "Pune, India",
+            "tier": "Tier-1",
+            "country": "India",
+            "state": "Maharashtra",
+            "city": "Pune"
+        },
+        "sentiment": {
+            "label": "positive",
+            "score": 0.43
+        },
+        "keywords": [
+            "things",
+            "pune",
+            "weekend",
+            "feb",
+            "hello",
+            "make"
+        ],
+        "aspects": [
+            {
+                "aspect": "performance",
+                "sentiment": "positive",
+                "score": 0.43
+            }
+        ],
+        "intent": "query",
+        "embedding": null,
+        "embedding_model": null,
+        "processed_at": "2025-10-03T17:04:06.634545Z",
+        "source_id": "reddit:1fb7dd495794"
+    },
+    {
+        "platform": "reddit",
+        "username": "CosmicVillain91",
+        "timestamp": "2025-08-05T08:29:55Z",
+        "vehicle_model": "Tata Safari",
+        "competitor_models": [
+            "Tata Harrier",
+            "Mahindra XUV700",
+            "Hyundai Alcazar",
+            "Toyota Innova"
+        ],
+        "content": "There's a Pushpa on the road!. **Kasa kai Pune?** It\u2019s me again. Your friendly, emotionally bankrupt Punekar reporting live from the urban safari that is my daily commute.\n\nToday, I had the honor of encountering our city\u2019s most majestic species: **Pushpas on the road.**\n\nYou know them.\n\nTwo-wheeler riders with the phone wedged between their shoulder and ear.  \nOne hand on the accelerator, one hand on destiny, and a neck angle that would make chiropractors retire..\n\n**Flower. Not fire.**\n\nSaw two accidents today, the first accident starred a **Pushpa on a Bullet**\u2014no mirrors, no brain cells, and a neck angle that would impress yoga teachers. He was gliding along with his phone tucked flower-style, moving slower than a sugarcane tractor on paternity leave. Then a car behind him honked. That was it. Pushpa got triggered. \n\n**\u201cRukhega nai saala!\u201d**\n\nHe panicked, twisted the throttle like he was escaping the law of physics, and **bang!** Straight into the car in front. The impact was so poetic, even the potholes paused to watch.  \n  \nHe gets down, dusts himself off, and instead of apologizing, turns to the car behind him and yells:  \n**\u201cKai ghai aahe tujhi?!\u201d**\n\nSir WHAT?!?!?\u2026 YOU were on the phone. YOU crashed. But sure, let\u2019s blame the person who honked because you were holding a traffic conference call on a scooter and moving slower than a sugarcane tractor on strike. (Btw, is it just me or are we seeing a lot of tractors on the road, in the past couple of weeks?)\n\nThe second accident was at **Mundhwa Chowk,** which I call **the armpit of Pune.** The traffic is so humid and sticky, it feels like the city is trying to marinate you in your own sweat.\n\nHere, another Pushpa bloomed. Wrong-side overtaking, speed breaker as launchpad, phone still flower-style like he was hosting **Pushpa FM 101.1: Live from the ICU.**\n\nPhysics, like Pune Police, did not care.  \n  \nHe went airborne, landed mid-road, and two random guys helped him up. He casually brushed the dust off, restarted the bike, and rode away like this was his **daily cardio.** In Mundhwa, that\u2019s not an \u201caccident\u201d\u2014it\u2019s just **another petal on the asphalt.**\n\nI swear, Pune\u2019s roads have become **Pushpa Gardens**\u2014full of two-wheeler flowers blooming in chaos.  \n**Flower today. Bouquet at your funeral tomorrow.**",
+        "hashtags": [],
+        "mentions": [],
+        "emojis": [],
+        "location": {
+            "profile_location": null,
+            "geo_location": null,
+            "nlp_location": "Pune, India",
+            "final_location": "Pune, India",
+            "tier": "Tier-1",
+            "country": "India",
+            "state": "Maharashtra",
+            "city": "Pune"
+        },
+        "sentiment": {
+            "label": "neutral",
+            "score": 0.0
+        },
+        "keywords": [
+            "pushpa",
+            "road",
+            "kasa",
+            "kai",
+            "pune",
+            "again"
+        ],
+        "aspects": [
+            {
+                "aspect": "performance",
+                "sentiment": "neutral",
+                "score": 0.0
+            },
+            {
+                "aspect": "comfort",
+                "sentiment": "neutral",
+                "score": 0.0
+            },
+            {
+                "aspect": "safety",
+                "sentiment": "neutral",
+                "score": 0.0
+            },
+            {
+                "aspect": "design",
+                "sentiment": "neutral",
+                "score": 0.0
+            }
+        ],
+        "intent": "query",
+        "embedding": null,
+        "embedding_model": null,
+        "processed_at": "2025-10-03T17:04:06.635410Z",
+        "source_id": "reddit:b241ee4e2b7b"
+    },
+    {
+        "platform": "reddit",
+        "username": "No-Following-6172",
+        "timestamp": "2024-01-12T14:39:57Z",
+        "vehicle_model": "Tata Safari",
+        "competitor_models": [
+            "Tata Harrier",
+            "Mahindra XUV700",
+            "Hyundai Alcazar",
+            "Toyota Innova"
+        ],
+        "content": "2 day travel for daughters first b'day on 14th feb. Hi, \nSo basically my daughter is going to be 1 year old on 14th feb. Me and my wife wanted to celebrate that by traveling some place. So we are looking for suggestions where we could travel to from Pune while considering below things:\n\n1. We got a car and plan to travel via car only as it'll be more flexible,  easy and more manageable for my daughter and wife. So distance can't be more than 8-9hrs away.\n\n2. We don't want to have a party etc, just want a peaceful trip where 3 of us could relax amd enjoy this occasion.\n\n3. We are open to anything, temples, beaches, mountains(trekking is also fine), jungle safari, camping.\n\n4. Plan to keep it to a 2 day trip but can extend or shorten the trip if needed.\n\nAll suggestions are welcome. Thanks.",
+        "hashtags": [],
+        "mentions": [],
+        "emojis": [],
+        "location": {
+            "profile_location": null,
+            "geo_location": null,
+            "nlp_location": "Pune, India",
+            "final_location": "Pune, India",
+            "tier": "Tier-1",
+            "country": "India",
+            "state": "Maharashtra",
+            "city": "Pune"
+        },
+        "sentiment": {
+            "label": "neutral",
+            "score": 0.0
+        },
+        "keywords": [
+            "day",
+            "travel",
+            "daughters",
+            "first",
+            "feb",
+            "basically"
+        ],
+        "aspects": [
+            {
+                "aspect": "design",
+                "sentiment": "neutral",
+                "score": 0.0
+            }
+        ],
+        "intent": "query",
+        "embedding": null,
+        "embedding_model": null,
+        "processed_at": "2025-10-03T17:04:06.636640Z",
+        "source_id": "reddit:e4f9f760eb1a"
+    },
+    {
+        "platform": "reddit",
+        "username": "Common_Dirt_3665",
+        "timestamp": "2024-06-11T10:49:38Z",
+        "vehicle_model": "Tata Safari",
+        "competitor_models": [
+            "Tata Harrier",
+            "Mahindra XUV700",
+            "Hyundai Alcazar",
+            "Toyota Innova"
+        ],
+        "content": "Any adventure resorts in or around Pune? . Hey so we(office team, around 15-20 ppl) are looking for a resort near Pune which will provide us outdoor activities along with good stay. We thought of Della, but that will be crowded on weekends, as we are going on weekends(22nd and 23rd).\nSo something similar to Della if anyone knows? I know Della is huge one but anything similar would do like a jungle safari or trekking.",
+        "hashtags": [],
+        "mentions": [],
+        "emojis": [],
+        "location": {
+            "profile_location": null,
+            "geo_location": null,
+            "nlp_location": "Pune, India",
+            "final_location": "Pune, India",
+            "tier": "Tier-1",
+            "country": "India",
+            "state": "Maharashtra",
+            "city": "Pune"
+        },
+        "sentiment": {
+            "label": "positive",
+            "score": 0.43
+        },
+        "keywords": [
+            "any",
+            "adventure",
+            "resorts",
+            "around",
+            "pune",
+            "hey"
+        ],
+        "aspects": [
+            {
+                "aspect": "design",
+                "sentiment": "positive",
+                "score": 0.43
+            }
+        ],
+        "intent": "query",
+        "embedding": null,
+        "embedding_model": null,
+        "processed_at": "2025-10-03T17:04:06.636812Z",
+        "source_id": "reddit:ea50acad4176"
+    },
+    {
+        "platform": "youtube",
+        "username": "@piyushgupta4801",
+        "timestamp": "2023-10-19T06:34:55Z",
+        "vehicle_model": "Tata Harrier",
+        "competitor_models": [
+            "Tata Safari",
+            "Mahindra XUV700",
+            "Hyundai Creta",
+            "Kia Seltos"
+        ],
+        "content": "Tata Harrier Fearless+ AT vs Jeep Compass Limited 4x2 AT. which1 is best?\n\n Considering: \n\n- wud keep for 8-10 years\n- average running is 8k/year mostly in Pune \n- 15-20 long-short highway trips yearly\n- to be driven by myself and my wife\n\nWe like Jeep compass because of its look, size, safety  but are hesitant because of \n- doubt on Jeep long term presence in India\n- high maintenance & part cost (nt sure)\n- no 360 camera and ADAS\n\nWe liked the new harrier in many aspects but again\n- It's cost is just 2-2.5 lakhs below compass\n- Premiumness, fit & finish not great as Compass \n- size is still bigger especially width (practical for city/traffic?)\n\nKindly share your valuable thoughts",
+        "hashtags": [],
+        "mentions": [],
+        "emojis": [],
+        "location": {
+            "profile_location": null,
+            "geo_location": null,
+            "nlp_location": "Pune, India",
+            "final_location": "Pune, India",
+            "tier": "Tier-1",
+            "country": "India",
+            "state": "Maharashtra",
+            "city": "Pune"
+        },
+        "sentiment": {
+            "label": "positive",
+            "score": 0.43
+        },
+        "keywords": [
+            "tata",
+            "harrier",
+            "fearless",
+            "jeep",
+            "compass",
+            "limited"
+        ],
+        "aspects": [
+            {
+                "aspect": "mileage",
+                "sentiment": "positive",
+                "score": 0.43
+            },
+            {
+                "aspect": "performance",
+                "sentiment": "positive",
+                "score": 0.43
+            },
+            {
+                "aspect": "safety",
+                "sentiment": "positive",
+                "score": 0.43
+            },
+            {
+                "aspect": "design",
+                "sentiment": "positive",
+                "score": 0.43
+            },
+            {
+                "aspect": "price",
+                "sentiment": "positive",
+                "score": 0.43
+            },
+            {
+                "aspect": "service",
+                "sentiment": "positive",
+                "score": 0.43
+            }
+        ],
+        "intent": "praise",
+        "embedding": null,
+        "embedding_model": null,
+        "processed_at": "2025-10-03T17:04:06.755743Z",
+        "source_id": "youtube:2dad1eb1ba15"
+    },
+    {
+        "platform": "youtube",
+        "username": "@top_1_percent",
+        "timestamp": "2023-10-15T11:30:18Z",
+        "vehicle_model": "Tata Safari",
+        "competitor_models": [
+            "Tata Harrier",
+            "Mahindra XUV700",
+            "Hyundai Alcazar",
+            "Toyota Innova"
+        ],
+        "content": "Amazing hills and skyline of Pune. Loved the video. Safari is king",
+        "hashtags": [],
+        "mentions": [],
+        "emojis": [],
+        "location": {
+            "profile_location": null,
+            "geo_location": null,
+            "nlp_location": "Pune, India",
+            "final_location": "Pune, India",
+            "tier": "Tier-1",
+            "country": "India",
+            "state": "Maharashtra",
+            "city": "Pune"
+        },
+        "sentiment": {
+            "label": "positive",
+            "score": 0.43
+        },
+        "keywords": [
+            "amazing",
+            "hills",
+            "skyline",
+            "pune",
+            "loved",
+            "video"
+        ],
+        "aspects": [],
+        "intent": "praise",
+        "embedding": null,
+        "embedding_model": null,
+        "processed_at": "2025-10-03T17:04:06.770797Z",
+        "source_id": "youtube:f8ace266aadd"
+    },
+    {
+        "platform": "reddit",
+        "username": "AccNumber_4",
+        "timestamp": "2024-05-12T08:36:06Z",
+        "vehicle_model": "Mahindra XUV700",
+        "competitor_models": [
+            "Tata Harrier",
+            "Tata Safari",
+            "Hyundai Alcazar",
+            "MG Hector"
+        ],
+        "content": "Fu*k Cancer . Idk how to frame this or to post this i am just writing it, I'll cut the emotions and keep it rational, so I 18M have found myself along with my family of 4 in a very unfortunate situation, well soon to be 3 as docs losing hopes for my father. We are based in Pimpri-Chinchwad,  So at the dawn of last year my father[46] was diagnosed with Blood Cancer, specifically AML in Deenanath Mangeshkar Hospital. He was cancer-free after a few months as it was detected very early. We got his Bone Marrow Transplant [BMT] done, and his brother's match of bone marrow was only 70%, so to get that to 100% we had to do a procedure that was well over 25L. Post BMT he was getting back to normal even to his 9to5 job which he lived for. But again a few months back we saw a spike in WBCs and it was a mutation in AML, now last to last week we tried to give him a very high dose of chemo (FLAG and CLAG) which literally kills every possible thing, the doc also told us this could lead in a very bad as he also has a history of cardiac disease with 1 angioplasty done but we had literally no other option left everything was tried, everything. So one day into it, we landed in ICU terminating the chemotherapy of 5 days, getting diagnosed with pneumonia and infrants in the brain. \n\nHe is a financially sound man and had savings of around 50L. He has a good-paying job of ~50L PA. Which was brought down ~35L last year after his treatment was going on, he was still working and attending phone calls even after there was no need to, that's how much passion he has.\n\nWe have a home loan of idk how many years left but emi being ~25k, a 1700sqft in Pimpri-Chinchwad. A car loan, EMI of ~50k which was being paid by his company but he owns it, idk how he did but did that, the car is an XUV700 AXL. We fully own a Ciaz zxi driven 1.4L km. \n\nAbout his term insurance he has a 1.5Cr cover, idk if there are any savings left, he had ~20L invested in MF, me and my brothers'(M15) education policy of ~25L combined. We sold our paternal grandparent's house earlier this month(they passed away around 2018 both of them) which brought ~12L named after my father.\n\nMy father has two brothers both well-off based in Pune. My mother has two brothers both well-off based in Pimpri-Chinchwad. My maternal grandparents are well-off based in Dehu Road earlier in Kothrud.\n\nI am keeping my hopes high but also being prepared for the worst. Please suggest anything if you feel if not thank you for listening to me. \n\nFUCK CANCER",
+        "hashtags": [],
+        "mentions": [],
+        "emojis": [],
+        "location": {
+            "profile_location": null,
+            "geo_location": null,
+            "nlp_location": "Pune, India",
+            "final_location": "Pune, India",
+            "tier": "Tier-1",
+            "country": "India",
+            "state": "Maharashtra",
+            "city": "Pune"
+        },
+        "sentiment": {
+            "label": "negative",
+            "score": -0.57
+        },
+        "keywords": [
+            "cancer",
+            "idk",
+            "how",
+            "frame",
+            "post",
+            "writing"
+        ],
+        "aspects": [
+            {
+                "aspect": "performance",
+                "sentiment": "negative",
+                "score": -0.57
+            }
+        ],
+        "intent": "query",
+        "embedding": null,
+        "embedding_model": null,
+        "processed_at": "2025-10-03T17:36:37.319945Z",
+        "source_id": "reddit:1365736da3f5",
+        "target_vehicle": "Mahindra XUV700",
+        "vehicle_category": "Premium SUV"
+    },
+    {
+        "platform": "reddit",
+        "username": "AccNumber_4",
+        "timestamp": "2024-05-12T08:59:50Z",
+        "vehicle_model": "Mahindra XUV700",
+        "competitor_models": [
+            "Tata Harrier",
+            "Tata Safari",
+            "Hyundai Alcazar",
+            "MG Hector"
+        ],
+        "content": "Fu*k Cancer . Idk how to frame this or to post this i am just writing it, I'll cut the emotions and keep it rational, so I 18M have found myself along with my family of 4 in a very unfortunate situation, well soon to be 3 as docs losing hopes for my father. We are based in Pimpri-Chinchwad,  So at the dawn of last year my father[46] was diagnosed with Blood Cancer, specifically AML in Deenanath Mangeshkar Hospital. He was cancer-free after a few months as it was detected very early. We got his Bone Marrow Transplant [BMT] done, and his brother's match of bone marrow was only 70%, so to get that to 100% we had to do a procedure that was well over 25L. Post BMT he was getting back to normal even to his 9to5 job which he lived for. But again a few months back we saw a spike in WBCs and it was a mutation in AML, now last to last week we tried to give him a very high dose of chemo (FLAG and CLAG) which literally kills every possible thing, the doc also told us this could lead in a very bad as he also has a history of cardiac disease with 1 angioplasty done but we had literally no other option left everything was tried, everything. So one day into it, we landed in ICU terminating the chemotherapy of 5 days, getting diagnosed with pneumonia and infrants in the brain. \n\nHe is a financially sound man and had savings of around 50L. He has a good-paying job of ~50L PA. Which was brought down ~35L last year after his treatment was going on, he was still working and attending phone calls even after there was no need to, that's how much passion he has.\n\nWe have a home loan of idk how many years left but emi being ~25k, a 1700sqft in Pimpri-Chinchwad. A car loan, EMI of ~50k which was being paid by his company but he owns it, idk how he did but did that, the car is an XUV700 AXL. We fully own a Ciaz zxi driven 1.4L km. \n\nAbout his term insurance he has a 1.5Cr cover, idk if there are any savings left, he had ~20L invested in MF, me and my brothers'(M15) education policy of ~25L combined. We sold our paternal grandparent's house earlier this month(they passed away around 2018 both of them) which brought ~12L named after my father.\n\nMy father has two brothers both well-off based in Pune. My mother has two brothers both well-off based in Pimpri-Chinchwad. My maternal grandparents are well-off based in Dehu Road earlier in Kothrud.\n\nI am keeping my hopes high but also being prepared for the worst. Please suggest anything if you feel if not thank you for listening me. \n\nFUCK CANCER",
+        "hashtags": [],
+        "mentions": [],
+        "emojis": [],
+        "location": {
+            "profile_location": null,
+            "geo_location": null,
+            "nlp_location": "Pune, India",
+            "final_location": "Pune, India",
+            "tier": "Tier-1",
+            "country": "India",
+            "state": "Maharashtra",
+            "city": "Pune"
+        },
+        "sentiment": {
+            "label": "negative",
+            "score": -0.57
+        },
+        "keywords": [
+            "cancer",
+            "idk",
+            "how",
+            "frame",
+            "post",
+            "writing"
+        ],
+        "aspects": [
+            {
+                "aspect": "performance",
+                "sentiment": "negative",
+                "score": -0.57
+            }
+        ],
+        "intent": "query",
+        "embedding": null,
+        "embedding_model": null,
+        "processed_at": "2025-10-03T17:36:37.347923Z",
+        "source_id": "reddit:77422ea03987",
+        "target_vehicle": "Mahindra XUV700",
+        "vehicle_category": "Premium SUV"
+    },
+    {
+        "platform": "reddit",
+        "username": "thebonebrain",
+        "timestamp": "2024-12-30T18:08:38Z",
+        "vehicle_model": "Mahindra XUV700",
+        "competitor_models": [
+            "Tata Harrier",
+            "Tata Safari",
+            "Hyundai Alcazar",
+            "MG Hector"
+        ],
+        "content": "Mahindra XUV 700 any genuine reviews from anyone using it in Pune. As per the title, planning to buy the xuv 700.. would like some authentic reviews from people who are using this car., especially in and around Pune.. thank you..",
+        "hashtags": [],
+        "mentions": [],
+        "emojis": [],
+        "location": {
+            "profile_location": null,
+            "geo_location": null,
+            "nlp_location": "Pune, India",
+            "final_location": "Pune, India",
+            "tier": "Tier-1",
+            "country": "India",
+            "state": "Maharashtra",
+            "city": "Pune"
+        },
+        "sentiment": {
+            "label": "neutral",
+            "score": 0.0
+        },
+        "keywords": [
+            "mahindra",
+            "xuv",
+            "any",
+            "genuine",
+            "reviews",
+            "anyone"
+        ],
+        "aspects": [],
+        "intent": "query",
+        "embedding": null,
+        "embedding_model": null,
+        "processed_at": "2025-10-03T17:36:37.348084Z",
+        "source_id": "reddit:16fc0359f61e",
+        "target_vehicle": "Mahindra XUV700",
+        "vehicle_category": "Premium SUV"
+    },
+    {
+        "platform": "reddit",
+        "username": "Agreeable-Bad7018",
+        "timestamp": "2025-04-05T08:00:47Z",
+        "vehicle_model": "Hyundai Creta",
+        "competitor_models": [
+            "Tata Harrier",
+            "Kia Seltos",
+            "Maruti Grand Vitara",
+            "MG Hector"
+        ],
+        "content": "Installed Music Player in Hyundai Creta E.. Installed MegaAudio 12.33 inch Creta specific system 4/64, with JBL Speakers, Door Damping, HD reverse Camera, Steering Audio Control and Boot Light.\u2026. Total cost 45K. \u2026. Chose MegaAudio because 1. Certified Android (Apple Car Play) 2. Top Model (OEM) like welcome display with fast and smooth touch. 3. Matt Finish (matches with the dashboard and cluster). 4. All metal body 5. Good after sales service\u2026.. Installation done by Autotrance Car Accessories, Pimple Saudagar, Pune.",
+        "hashtags": [],
+        "mentions": [],
+        "emojis": [],
+        "location": {
+            "profile_location": null,
+            "geo_location": null,
+            "nlp_location": "Pune, India",
+            "final_location": "Pune, India",
+            "tier": "Tier-1",
+            "country": "India",
+            "state": "Maharashtra",
+            "city": "Pune"
+        },
+        "sentiment": {
+            "label": "positive",
+            "score": 0.43
+        },
+        "keywords": [
+            "installed",
+            "music",
+            "player",
+            "hyundai",
+            "creta",
+            "megaaudio"
+        ],
+        "aspects": [
+            {
+                "aspect": "infotainment",
+                "sentiment": "positive",
+                "score": 0.43
+            },
+            {
+                "aspect": "design",
+                "sentiment": "positive",
+                "score": 0.43
+            },
+            {
+                "aspect": "price",
+                "sentiment": "positive",
+                "score": 0.43
+            },
+            {
+                "aspect": "service",
+                "sentiment": "positive",
+                "score": 0.43
+            }
+        ],
+        "intent": "praise",
+        "embedding": null,
+        "embedding_model": null,
+        "processed_at": "2025-10-03T17:36:37.386803Z",
+        "source_id": "reddit:5e23edd1a396",
+        "target_vehicle": "Hyundai Creta",
+        "vehicle_category": "Compact SUV"
+    },
+    {
+        "platform": "reddit",
+        "username": "PsychoticOm",
+        "timestamp": "2025-08-16T03:36:02Z",
+        "vehicle_model": "Hyundai Creta",
+        "competitor_models": [
+            "Tata Harrier",
+            "Kia Seltos",
+            "Maruti Grand Vitara",
+            "MG Hector"
+        ],
+        "content": "Need to choose between second hand car - Safari storme, BMW or Fortuner. So I already have a creta, aura and a corolla altis all brand new but somehow a child in me always loved the 3 cars which I stated above and I\u2019m from Pune so I\u2019m getting all these in over 1-2 lakh difference.\n\n1)Toyota Fortuner 3.0 4x4 (2010)- 6.5 lakh rs (400k km),\n\n2)Toyota Fortuner 2.8 4x4 MT (2011)- 7 lakh rs (289k km),\n\n3)BMW X1 ( 2011) - 5 lakh rs (95k km - distance),\n\n4)Safari storme VX (2013) - 4.9 lakh rs (102k km - distance),\n\n5)Safari storme VX (2014) - 4.9 lakh rs (100k km ),\n\n6)Safari storme VX varicor 400(2014)- 4.5 lakh rs (150k km),\n\n7)Safari storme VX varicor 400 (2015)- 6 lakh rs (99k km),\n\n8)Safari storme LX (2013) - 3.75 lakh rs (120k km),\n\n9)Safari storme EX (2015) - 5.4 lakh rs (97k km)\n\nI wanna keep the maintenance and repair cost in mind in case anything happens cuz that\u2019s the main thing apart from that all cars are in good condition. I have given the price and distance travelled so do let me know what you guys think and which I should go with. Deciding factors - Price Maintenance cost Mileage Repair cost Distance travelled\n\n(Ps - on purpose didn\u2019t posted 10, had to trigger ppl with ocd and what not ) \ud83e\udd23",
+        "hashtags": [],
+        "mentions": [],
+        "emojis": [],
+        "location": {
+            "profile_location": null,
+            "geo_location": null,
+            "nlp_location": "Pune, India",
+            "final_location": "Pune, India",
+            "tier": "Tier-1",
+            "country": "India",
+            "state": "Maharashtra",
+            "city": "Pune"
+        },
+        "sentiment": {
+            "label": "positive",
+            "score": 0.43
+        },
+        "keywords": [
+            "need",
+            "choose",
+            "between",
+            "second",
+            "hand",
+            "car"
+        ],
+        "aspects": [
+            {
+                "aspect": "mileage",
+                "sentiment": "positive",
+                "score": 0.43
+            },
+            {
+                "aspect": "price",
+                "sentiment": "positive",
+                "score": 0.43
+            },
+            {
+                "aspect": "service",
+                "sentiment": "positive",
+                "score": 0.43
+            }
+        ],
+        "intent": "query",
+        "embedding": null,
+        "embedding_model": null,
+        "processed_at": "2025-10-03T17:36:37.411065Z",
+        "source_id": "reddit:ddfbdf154758",
+        "target_vehicle": "Hyundai Creta",
+        "vehicle_category": "Compact SUV"
+    },
+    {
+        "platform": "reddit",
+        "username": "Montyjv54",
+        "timestamp": "2024-06-20T18:22:07Z",
+        "vehicle_model": "Hyundai Creta",
+        "competitor_models": [
+            "Tata Harrier",
+            "Kia Seltos",
+            "Maruti Grand Vitara",
+            "MG Hector"
+        ],
+        "content": "Random Pune Fact 02. Random Pune Fact 02 - The Upper-Dipper Warriors\n\nWhile traveling on the roads of Pune, there is 225% chance that you will encounter bhos** wala drivers who flash their high beams from behind, potentially impairing your vision. It is advisable to remain calm, as these individuals may be experiencing an undiagnosed mental condition that impairs their understanding of traffic dynamics. They usually fail to recognize that you might be reducing speed due to another vehicle ahead or simply adhering to traffic regulations. Instead, they assume you are an incompetent driver causing unnecessary delays. Just because they own a vehicle they think they own the road. \n\nThese individuals often drive vehicles such as Creta, Thar, white Maruti Swift, and Fortuner. Recently, they have also been observed in commercial vehicles with yellow license plates, like Innova and Ertiga. We urge you not to engage with them, as this may provoke their dog like instinct , potentially leading to aggressive behavior and might bite you. (The vehicles might vary)\n\nBe safe, drive and ride safe! Leave a smile when you encounter such bhos**wale\n\nWill be back with more random facts",
+        "hashtags": [],
+        "mentions": [],
+        "emojis": [],
+        "location": {
+            "profile_location": null,
+            "geo_location": null,
+            "nlp_location": "Pune, India",
+            "final_location": "Pune, India",
+            "tier": "Tier-1",
+            "country": "India",
+            "state": "Maharashtra",
+            "city": "Pune"
+        },
+        "sentiment": {
+            "label": "neutral",
+            "score": 0.0
+        },
+        "keywords": [
+            "random",
+            "pune",
+            "fact",
+            "upper",
+            "dipper",
+            "warriors"
+        ],
+        "aspects": [
+            {
+                "aspect": "performance",
+                "sentiment": "neutral",
+                "score": 0.0
+            },
+            {
+                "aspect": "comfort",
+                "sentiment": "neutral",
+                "score": 0.0
+            }
+        ],
+        "intent": "query",
+        "embedding": null,
+        "embedding_model": null,
+        "processed_at": "2025-10-03T17:36:37.611872Z",
+        "source_id": "reddit:54473765e895",
+        "target_vehicle": "Toyota Innova",
+        "vehicle_category": "MPV/3-Row"
+    },
+    {
+        "platform": "reddit",
+        "username": "Numerous_Royal_5475",
+        "timestamp": "2025-05-01T07:55:25Z",
+        "vehicle_model": "MG Hector",
+        "competitor_models": [
+            "Tata Harrier",
+            "Hyundai Creta",
+            "Kia Seltos"
+        ],
+        "content": "Which is the most reliable source to buy second hand cars. Hi folks, our family is planning to buy a mg hector second hand, and as this is our first time buying a second hand car we don\u2019t have any idea as to what things to look at, so we\u2019d want that the platform from which we are buying does the due diligence for us(like inspection, proper paperwork), I have heard cars24 and spinny are good platforms, is that true, can OLX be trusted? It would be great if people who actually bought second hand cars weigh in on this, Thanks\n\nP.S- I am based in pune",
+        "hashtags": [],
+        "mentions": [],
+        "emojis": [],
+        "location": {
+            "profile_location": null,
+            "geo_location": null,
+            "nlp_location": "Pune, India",
+            "final_location": "Pune, India",
+            "tier": "Tier-1",
+            "country": "India",
+            "state": "Maharashtra",
+            "city": "Pune"
+        },
+        "sentiment": {
+            "label": "positive",
+            "score": 0.43
+        },
+        "keywords": [
+            "most",
+            "reliable",
+            "source",
+            "buy",
+            "second",
+            "hand"
+        ],
+        "aspects": [
+            {
+                "aspect": "design",
+                "sentiment": "positive",
+                "score": 0.43
+            }
+        ],
+        "intent": "praise",
+        "embedding": null,
+        "embedding_model": null,
+        "processed_at": "2025-10-03T17:36:37.652774Z",
+        "source_id": "reddit:d85d1bbde80e",
+        "target_vehicle": "MG Hector",
+        "vehicle_category": "Mid-size SUV"
+    }
+]
